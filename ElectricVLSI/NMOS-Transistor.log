@@ -1,0 +1,6 @@
+C:\users\enslenc1\documents\NMOS-Transistor.spi(17): Expected expression or literal here.
+.dc vd 0 3 lm vg 0 3 0.5
+              ^^^^^^^^^^
+C:\users\enslenc1\documents\NMOS-Transistor.spi(17): syntax error
+.dc vd 0 3 lm vg 0 3 0.5
+           ^^^^^^^^^^^^^
