@@ -1,0 +1,19 @@
+*** SPICE deck for cell NMOS-Transistor{sch} from library noname
+*** Created on Wed Feb 11, 2026 16:13:15
+*** Last revised on Wed Feb 11, 2026 16:25:09
+*** Written on Wed Feb 11, 2026 16:25:15 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+.global gnd
+
+*** TOP LEVEL CELL: NMOS-Transistor{sch}
+Mnmos-4@0 D G S gnd CMOSN L=0.4U W=0.6U
+
+* Spice Code nodes in cell cell 'NMOS-Transistor{sch}'
+vd D 0 dc 0
+cs S 0 dc 0 
+vg G 0 dc 0
+.dc vd 0 3 lm vg 0 3 0.5
+.include C:\Users\enslenc1\AppData\Local\LTspice\lib\sub\tsmc018.lib
+.END

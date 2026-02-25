@@ -1,0 +1,31 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\users\enslenc1\documents\NOR.spi
+Start Time: Wed Feb 25 18:11:24 2026
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 32
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.252 seconds.
+
+Files loaded:
+C:\users\enslenc1\documents\NOR.spi
+C:\Users\enslenc1\Documents\GitHub\VLSI\ElectricVLSI\TransistorSpecs\tsmc018.lib
+
+tfall1: time =4.00427233883e-08 at 4.00427233883e-08
+tfall2: time =4.03981635973e-08 at 4.03981635973e-08
+trise1: time =3.01591653336e-08 at 3.01591653336e-08
+trise2: time =3.18041950818e-08 at 3.18041950818e-08
+tphl1: time =4.00005e-08 at 4.00005e-08
+tphl2: time =4.01944669015e-08 at 4.01944669015e-08
+tplh1: time =3.00015e-08 at 3.00015e-08
+tplh2: time =3.07526781226e-08 at 3.07526781226e-08

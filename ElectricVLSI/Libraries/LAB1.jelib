@@ -1,0 +1,116 @@
+# header information:
+HLAB1|9.08
+
+# Views:
+Vicon|ic
+Vlayout|lay
+Vschematic|sch
+
+# Technologies:
+Tmocmos|ScaleFORmocmos()D100.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
+
+# Cell INVERTER;1{ic}
+CINVERTER;1{ic}||artwork|1771455298457|1771455833976|E
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NTriangle|art@3||1|0.5|6|6|RRR|
+NCircle|art@4||4|0.5|3|3||
+Nschematic:Bus_Pin|pin@0||-4|0.5||||
+Nschematic:Bus_Pin|pin@2||9|0.5||||
+Nschematic:Wire_Pin|pin@5||-1.5|0.5||||
+Nschematic:Wire_Pin|pin@6||4.5|0.5||||
+Aschematic:wire|net@3|||1800|pin@0||-4|0.5|pin@5||-1.5|0.5
+Aschematic:wire|net@4|||0|pin@2||9|0.5|pin@6||4.5|0.5
+Ein||D5G2;|pin@0||U
+Eout||D5G2;|pin@2||U
+X
+
+# Cell INVERTER;1{lay}
+CINVERTER;1{lay}||mocmos|1771455609737|1771455609737|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+X
+
+# Cell INVERTER;1{sch}
+CINVERTER;1{sch}||schematic|1771446005569|1771455298458|
+IINVERTER;1{ic}|INVERTER@0||10.5|15|||D5G4;
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NGround|gnd@0||-3.5|-9.5||||
+N4-Port-Transistor|nmos-4@0||-5.5|-3.5|||R||ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S3|SIM_spice_model(D5G1;)SCMOSN
+NWire_Pin|pin@0||-9.5|3||||
+NWire_Pin|pin@1||-9.5|-3.5||||
+NWire_Pin|pin@2||-9.5|-0.5||||
+NWire_Pin|pin@3||-11.5|-0.5||||
+NWire_Pin|pin@17||-6.5|-4.5||||
+NWire_Pin|pin@18||-6.5|-6.5||||
+NWire_Pin|pin@19||-3.5|-6.5||||
+NWire_Pin|pin@24||-6|4||||
+NWire_Pin|pin@25||-6|5.5||||
+NWire_Pin|pin@26||-3.5|5.5||||
+NWire_Pin|pin@32||-3.5|-1||||
+NWire_Pin|pin@33||5.5|-1||||
+N4-Port-Transistor|pmos-4@0||-5.5|3|||YR|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S12|SIM_spice_model(D5G1;)SCMOSP
+NPower|pwr@0||-3.5|8.5||||
+Awire|net@2|||0|nmos-4@0|g|-6.5|-3.5|pin@1||-9.5|-3.5
+Awire|net@4|||2700|pin@1||-9.5|-3.5|pin@2||-9.5|-0.5
+Awire|net@5|||2700|pin@2||-9.5|-0.5|pin@0||-9.5|3
+Awire|net@6|||0|pin@2||-9.5|-0.5|pin@3||-11.5|-0.5
+Awire|net@37|||0|nmos-4@0|b|-3.5|-4.5|pin@17||-6.5|-4.5
+Awire|net@38|||900|pin@17||-6.5|-4.5|pin@18||-6.5|-6.5
+Awire|net@39|||900|nmos-4@0|s|-3.5|-5.5|pin@19||-3.5|-6.5
+Awire|net@40|||900|pin@19||-3.5|-6.5|gnd@0||-3.5|-7.5
+Awire|net@41|||1800|pin@18||-6.5|-6.5|pin@19||-3.5|-6.5
+Awire|net@46|||0|pmos-4@0|g|-6.5|3|pin@0||-9.5|3
+Awire|net@50|||0|pmos-4@0|b|-3.5|4|pin@24||-6|4
+Awire|net@51|||2700|pin@24||-6|4|pin@25||-6|5.5
+Awire|net@52|||2700|pmos-4@0|s|-3.5|5|pin@26||-3.5|5.5
+Awire|net@53|||2700|pin@26||-3.5|5.5|pwr@0||-3.5|8.5
+Awire|net@54|||1800|pin@25||-6|5.5|pin@26||-3.5|5.5
+Awire|net@66|||2700|nmos-4@0|d|-3.5|-1.5|pin@32||-3.5|-1
+Awire|net@75|||900|pmos-4@0|d|-3.5|1|pin@32||-3.5|-1
+Awire|net@78|||1800|pin@32||-3.5|-1|pin@33||5.5|-1
+Ein||D5G2;|pin@3||U
+Eout||D5G2;|pin@33||U
+X
+
+# Cell NMOS;1{sch}
+CNMOS;1{sch}||schematic|1771443636990|1771444710814|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NGround|gnd@0||-2.25|1|-1.5|-2||
+N4-Port-Transistor|nmos-4@0||-8|3|||R||ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S3|SIM_spice_model(D5G1;X-4;Y4.5;)SCMOSN
+NWire_Pin|pin@2||-6|6||||
+Ngeneric:Invisible-Pin|pin@5||-13|-4.5|||||SIM_spice_card(D5G1;)S[vd  D  0  dc  0,vs  S  0  dc  0,vg G 0 dc 0,.dc  vd  0  3  1m vg  0   3   0.5,".include  C:\\Users\\enslenc1\\AppData\\Local\\LTspice\\lib\\sub\\tsmc018.lib"]
+NWire_Pin|pin@9||-6|-1.5||||
+NWire_Pin|pin@10||-10|3||||
+NWire_Pin|pin@13||-4.5|2||||
+NWire_Pin|pin@14||-4.5|-0.5||||
+NWire_Pin|pin@15||-6|-0.5||||
+Awire|net@3|||2700|nmos-4@0|d|-6|5|pin@2||-6|6
+Awire|net@11|||0|nmos-4@0|g|-9|3|pin@10||-10|3
+Awire|net@16|||1800|nmos-4@0|b|-6|2|pin@13||-4.5|2
+Awire|net@17|||1800|pin@13||-4.5|2|gnd@0||-2.25|2
+Awire|net@18|||900|pin@13||-4.5|2|pin@14||-4.5|-0.5
+Awire|net@19|||900|nmos-4@0|s|-6|1|pin@15||-6|-0.5
+Awire|net@20|||900|pin@15||-6|-0.5|pin@9||-6|-1.5
+Awire|net@21|||0|pin@14||-4.5|-0.5|pin@15||-6|-0.5
+ED||D5G1;|pin@2||U
+EG||D5G2;|pin@10||U
+ES||D5G2;|pin@9||U
+X
+
+# Cell PMOS;1{sch}
+CPMOS;1{sch}||schematic|1771445060605|1771445665351|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NWire_Pin|pin@0||-6|10||||
+NWire_Pin|pin@1||-12|5||||
+NWire_Pin|pin@2||-6|0||||
+NWire_Pin|pin@3||-3|4||||
+Ngeneric:Invisible-Pin|pin@4||-19|0|||||SIM_spice_card(D5G1;)S[vd  D  0  dc  0,vs  S   0  dc  0,vg G  0 dc 0,vw W 0  dc  3,.dc  vd  0  -3  -1m  vg  0   -3   -0.5,".include  C:\\Users\\enslenc1\\AppData\\Local\\LTspice\\lib\\sub\\tsmc018.lib"]
+N4-Port-Transistor|pmos-4@0||-8|5|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)D2.0|ATTR_width(D5G1;X0.5;Y-1;)D6.0|SIM_spice_model(D5G1;)SCMOSP
+Awire|net@0|||2700|pmos-4@0|d|-6|7|pin@0||-6|10
+Awire|net@1|||0|pmos-4@0|g|-9|5|pin@1||-12|5
+Awire|net@2|||900|pmos-4@0|s|-6|3|pin@2||-6|0
+Awire|net@3|||1800|pmos-4@0|b|-6|4|pin@3||-3|4
+ED||D5G2;|pin@0||U
+EG||D5G2;|pin@1||U
+ES||D5G2;|pin@2||U
+EW||D5G2;|pin@3||U
+X

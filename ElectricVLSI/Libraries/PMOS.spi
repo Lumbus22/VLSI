@@ -1,0 +1,19 @@
+*** SPICE deck for cell PMOS{sch} from library LAB1
+*** Created on Wed Feb 18, 2026 15:04:20
+*** Last revised on Wed Feb 18, 2026 15:14:25
+*** Written on Wed Feb 18, 2026 15:15:00 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+*** WARNING: no power connection for P-transistor wells in cell 'PMOS{sch}'
+
+*** TOP LEVEL CELL: PMOS{sch}
+Mpmos-4@0 D G S W CMOSP L=0.2U W=0.6U
+
+* Spice Code nodes in cell cell 'PMOS{sch}'
+vd  D  0  dc  0
+vs  S   0  dc  0
+vg G  0 dc 0
+vw W 0  dc  3
+.dc  vd  0  -3  -1m  vg  0   -3   -0.5
+.include  C:\Users\enslenc1\AppData\Local\LTspice\lib\sub\tsmc018.lib
+.END

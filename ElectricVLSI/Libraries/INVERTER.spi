@@ -1,0 +1,9 @@
+*** SPICE deck for cell INVERTER{ic} from library LAB1
+*** Created on Wed Feb 18, 2026 17:54:58
+*** Last revised on Wed Feb 18, 2026 18:05:58
+*** Written on Wed Feb 18, 2026 18:06:11 by Electric VLSI Design System, version 9.08
+*** Layout tech: mocmos, foundry MOSIS
+*** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
+
+*** TOP LEVEL CELL: INVERTER{ic}
+.END
