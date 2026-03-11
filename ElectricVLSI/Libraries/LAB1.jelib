@@ -25,8 +25,37 @@ Eout||D5G2;|pin@2||U
 X
 
 # Cell INVERTER;1{lay}
-CINVERTER;1{lay}||mocmos|1771455609737|1771455609737|
+CINVERTER;1{lay}||mocmos|1771455609737|1773257621260||DRC_last_good_drc_area_date()G1773257625602|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1773257625602
 Ngeneric:Facet-Center|art@0||0|0||||AV
+NMetal-1-P-Active-Con|contact@0||-3|12||1||
+NMetal-1-P-Active-Con|contact@1||9.5|12||1||
+NMetal-1-Polysilicon-1-Con|contact@5||-4.5|-0.5||||
+NMetal-1-N-Active-Con|contact@6||9.5|-12.5||||
+NMetal-1-N-Active-Con|contact@7||-3.5|-12.5||||
+NN-Transistor|nmos@0||3|-12.5|||R||SIM_spice_model(D5G2;)SCMOSN
+NMetal-1-Pin|pin@4||14|0||||
+NMetal-1-Pin|pin@5||9.5|0||||
+NPolysilicon-1-Pin|pin@6||3|-0.5||||
+Ngeneric:Invisible-Pin|pin@7||-42|0|||||SIM_spice_card(D5G1;)S[vdd vdd 0 dc 3,vin in 0 dc 0,.dc vin 0 3 1m,".include C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib"]
+NP-Transistor|pmos@0||3|12|3||R||SIM_spice_model(D5G2;)SCMOSP
+NMetal-1-P-Well-Con|substr@0||3.5|-26|15|||
+NMetal-1-N-Well-Con|well@0||3.5|26|15|||
+AP-Active|net@0|||S0|pmos@0|diff-top|-0.75|12.5|contact@0||-3.5|12.5
+AP-Active|net@1|||S1800|pmos@0|diff-bottom|6.75|11.5|contact@1||9|11.5
+AMetal-1|net@19||1|S900|contact@1||9.5|12|pin@5||9.5|0
+AMetal-1|net@21||1|S1800|pin@5||9.5|0|pin@4||14|0
+AMetal-1|net@22||1|S900|contact@7||-3.5|-12.5|substr@0||-3.5|-26
+AMetal-1|net@23||1|S2700|contact@6||9.5|-12.5|pin@5||9.5|0
+AMetal-1|net@24||1|S900|well@0||-3|26|contact@0||-3|12
+APolysilicon-1|net@28|||S900|pmos@0|poly-left|3|7|pin@6||3|-0.5
+APolysilicon-1|net@29|||S900|pin@6||3|-0.5|nmos@0|poly-right|3|-9
+APolysilicon-1|net@30|||S0|pin@6||3|-0.5|contact@5||-4.5|-0.5
+AN-Active|net@31|||S1800|nmos@0|diff-bottom|6.75|-12.5|contact@6||10|-12.5
+AN-Active|net@32|||S0|nmos@0|diff-top|-0.75|-12.5|contact@7||-4|-12.5
+Egnd||D5G2;|substr@0||U
+Ein||D5G2;|contact@5||U
+Eout||D5G2;|pin@4||U
+Evdd||D5G2;|well@0||U
 X
 
 # Cell INVERTER;1{sch}
@@ -69,6 +98,14 @@ Awire|net@75|||900|pmos-4@0|d|-3.5|1|pin@32||-3.5|-1
 Awire|net@78|||1800|pin@32||-3.5|-1|pin@33||5.5|-1
 Ein||D5G2;|pin@3||U
 Eout||D5G2;|pin@33||U
+X
+
+# Cell Layout_Inverter;1{lay}
+CLayout_Inverter;1{lay}||mocmos|1772651630916|1772651951660|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NMetal-1-Polysilicon-1-Con|contact@0||-24|8||||
+NMetal-1-Polysilicon-1-Con|contact@1||-36.5|-2.5||||
+NMetal-1-P-Well-Con|substr@0||-18|6||||
 X
 
 # Cell NMOS;1{sch}
