@@ -10,10 +10,10 @@ Vschematic|sch
 Tmocmos|ScaleFORmocmos()D100.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
 
 # Cell INVERTER;1{ic}
-CINVERTER;1{ic}||artwork|1771455298457|1771455833976|E
+CINVERTER;1{ic}||artwork|1771455298457|1774471701385|E
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NTriangle|art@3||1|0.5|6|6|RRR|
-NCircle|art@4||4|0.5|3|3||
+NCircle|art@4||5|0.5|2|2||
 Nschematic:Bus_Pin|pin@0||-4|0.5||||
 Nschematic:Bus_Pin|pin@2||9|0.5||||
 Nschematic:Wire_Pin|pin@5||-1.5|0.5||||
