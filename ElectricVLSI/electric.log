@@ -1,999 +1,972 @@
 Electric Version 9.08
 --------------- 0 --------------
-  Wed Apr 22 15:04:47 EDT 2026
-Menu Activated: File | Open Library...
+  Mon May 11 11:19:51 EDT 2026
+Menu Activated: /C:/Users/enslenc1/Documents/GitHub/VLSI/ElectricVLSI/Libraries/4BitAdder.jelib
 --------------- 1 --------------
-  Wed Apr 22 15:05:24 EDT 2026
-Menu Activated: File | Open Library...
+  Mon May 11 11:19:59 EDT 2026
+Menu Activated: /C:/Users/enslenc1/Documents/GitHub/VLSI/ElectricVLSI/Libraries/Lab3.jelib
 --------------- 2 --------------
-  Wed Apr 22 15:05:36 EDT 2026
-Menu Activated: File | Open Library...
+  Mon May 11 11:20:06 EDT 2026
+ProcessKeyBinding 401 when=1778512806431 modifiers=80 code=11 char=ffff false false
 --------------- 3 --------------
-  Wed Apr 22 15:06:02 EDT 2026
-ProcessKeyBinding 401 when=1776884762362 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:20:09 EDT 2026
+ProcessKeyBinding 402 when=1778512809058 modifiers=0 code=11 char=ffff false false
 --------------- 4 --------------
-  Wed Apr 22 15:06:04 EDT 2026
-ProcessKeyBinding 402 when=1776884764357 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:20:13 EDT 2026
+ProcessKeyBinding 401 when=1778512813735 modifiers=80 code=11 char=ffff false false
 --------------- 5 --------------
-  Wed Apr 22 15:22:52 EDT 2026
-ProcessKeyBinding 401 when=1776885772066 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:20:17 EDT 2026
+ProcessKeyBinding 402 when=1778512817570 modifiers=0 code=11 char=ffff false false
 --------------- 6 --------------
-  Wed Apr 22 15:22:52 EDT 2026
-ProcessKeyBinding 402 when=1776885772750 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:20:17 EDT 2026
+ProcessKeyBinding 401 when=1778512817848 modifiers=80 code=11 char=ffff false false
 --------------- 7 --------------
-  Wed Apr 22 15:22:53 EDT 2026
-ProcessKeyBinding 401 when=1776885773130 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:20:22 EDT 2026
+ProcessKeyBinding 402 when=1778512822390 modifiers=0 code=11 char=ffff false false
 --------------- 8 --------------
-  Wed Apr 22 15:22:57 EDT 2026
-ProcessKeyBinding 402 when=1776885777552 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:20:25 EDT 2026
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@80].wire'
 --------------- 9 --------------
-  Wed Apr 22 15:22:58 EDT 2026
-ProcessKeyBinding 401 when=1776885778248 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:20:25 EDT 2026
+ProcessKeyBinding 400 when=1778512825467 modifiers=0 code=0 char=7f false false
 --------------- 10 --------------
-  Wed Apr 22 15:22:58 EDT 2026
-ProcessKeyBinding 402 when=1776885778844 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:20:27 EDT 2026
+ProcessKeyBinding 401 when=1778512827778 modifiers=80 code=11 char=ffff false false
 --------------- 11 --------------
-  Wed Apr 22 15:23:55 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+  Mon May 11 11:20:29 EDT 2026
+ProcessKeyBinding 402 when=1778512829015 modifiers=0 code=11 char=ffff false false
 --------------- 12 --------------
-  Wed Apr 22 15:25:13 EDT 2026
-ProcessKeyBinding 401 when=1776885913454 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:25:10 EDT 2026
+ProcessKeyBinding 401 when=1778513110470 modifiers=80 code=11 char=ffff false false
 --------------- 13 --------------
-  Wed Apr 22 15:25:14 EDT 2026
-ProcessKeyBinding 402 when=1776885914666 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:25:11 EDT 2026
+ProcessKeyBinding 402 when=1778513111391 modifiers=0 code=11 char=ffff false false
 --------------- 14 --------------
-  Wed Apr 22 15:29:30 EDT 2026
-ProcessKeyBinding 401 when=1776886170934 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:30:42 EDT 2026
+Menu Activated: File | Open Library...
 --------------- 15 --------------
-  Wed Apr 22 15:29:31 EDT 2026
-ProcessKeyBinding 402 when=1776886171321 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:30:54 EDT 2026
+ProcessKeyBinding 401 when=1778513454710 modifiers=80 code=11 char=ffff false false
 --------------- 16 --------------
-  Wed Apr 22 15:29:31 EDT 2026
-ProcessKeyBinding 401 when=1776886171466 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:30:55 EDT 2026
+ProcessKeyBinding 402 when=1778513455622 modifiers=0 code=11 char=ffff false false
 --------------- 17 --------------
-  Wed Apr 22 15:29:31 EDT 2026
-ProcessKeyBinding 402 when=1776886171832 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:30:56 EDT 2026
+ProcessKeyBinding 401 when=1778513456008 modifiers=80 code=11 char=ffff false false
 --------------- 18 --------------
-  Wed Apr 22 15:29:35 EDT 2026
-ProcessKeyBinding 401 when=1776886175446 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:30:56 EDT 2026
+ProcessKeyBinding 402 when=1778513456504 modifiers=0 code=11 char=ffff false false
 --------------- 19 --------------
-  Wed Apr 22 15:29:36 EDT 2026
-ProcessKeyBinding 402 when=1776886176641 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:30:57 EDT 2026
+ProcessKeyBinding 401 when=1778513457998 modifiers=80 code=11 char=ffff false false
 --------------- 20 --------------
-  Wed Apr 22 15:29:37 EDT 2026
-ProcessKeyBinding 401 when=1776886177371 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:30:58 EDT 2026
+ProcessKeyBinding 402 when=1778513458482 modifiers=0 code=11 char=ffff false false
 --------------- 21 --------------
-  Wed Apr 22 15:29:38 EDT 2026
-ProcessKeyBinding 402 when=1776886178070 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:31:16 EDT 2026
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
 --------------- 22 --------------
-  Wed Apr 22 15:30:04 EDT 2026
-ProcessKeyBinding 401 when=1776886204247 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:41:56 EDT 2026
+ProcessKeyBinding 401 when=1778514116295 modifiers=80 code=11 char=ffff false false
 --------------- 23 --------------
-  Wed Apr 22 15:30:05 EDT 2026
-ProcessKeyBinding 402 when=1776886205059 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:41:56 EDT 2026
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    SPICE code
 --------------- 24 --------------
-  Wed Apr 22 15:30:07 EDT 2026
-ProcessKeyBinding 401 when=1776886207166 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:41:56 EDT 2026
+ProcessKeyBinding 400 when=1778514116500 modifiers=80 code=0 char=3 false false
 --------------- 25 --------------
-  Wed Apr 22 15:30:08 EDT 2026
-ProcessKeyBinding 402 when=1776886208047 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:41:56 EDT 2026
+ProcessKeyBinding 402 when=1778514116808 modifiers=0 code=11 char=ffff false false
 --------------- 26 --------------
-  Wed Apr 22 15:30:12 EDT 2026
-ProcessKeyBinding 401 when=1776886212726 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:01 EDT 2026
+ProcessKeyBinding 401 when=1778514121107 modifiers=80 code=11 char=ffff false false
 --------------- 27 --------------
-  Wed Apr 22 15:30:13 EDT 2026
-ProcessKeyBinding 402 when=1776886213895 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:01 EDT 2026
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
 --------------- 28 --------------
-  Wed Apr 22 15:30:26 EDT 2026
-ProcessKeyBinding 401 when=1776886226143 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:01 EDT 2026
+ProcessKeyBinding 400 when=1778514121221 modifiers=80 code=0 char=9 false false
 --------------- 29 --------------
-  Wed Apr 22 15:30:27 EDT 2026
-ProcessKeyBinding 402 when=1776886227621 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:01 EDT 2026
+ProcessKeyBinding 402 when=1778514121487 modifiers=0 code=11 char=ffff false false
 --------------- 30 --------------
-  Wed Apr 22 15:30:34 EDT 2026
-ProcessKeyBinding 401 when=1776886234912 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:06 EDT 2026
+ProcessKeyBinding 401 when=1778514126738 modifiers=80 code=11 char=ffff false false
 --------------- 31 --------------
-  Wed Apr 22 15:30:35 EDT 2026
-ProcessKeyBinding 402 when=1776886235561 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:07 EDT 2026
+ProcessKeyBinding 402 when=1778514127193 modifiers=0 code=11 char=ffff false false
 --------------- 32 --------------
-  Wed Apr 22 15:30:39 EDT 2026
-ProcessKeyBinding 401 when=1776886239198 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:25 EDT 2026
+ProcessKeyBinding 400 when=1778514145624 modifiers=0 code=0 char=1b false false
 --------------- 33 --------------
-  Wed Apr 22 15:30:39 EDT 2026
-ProcessKeyBinding 402 when=1776886239375 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:25 EDT 2026
+ProcessKeyBinding 402 when=1778514145692 modifiers=0 code=1b char=1b false false
 --------------- 34 --------------
-  Wed Apr 22 15:30:40 EDT 2026
-ProcessKeyBinding 401 when=1776886240216 modifiers=40 code=10 char=ffff false false
+  Mon May 11 11:42:26 EDT 2026
+ProcessKeyBinding 400 when=1778514146041 modifiers=0 code=0 char=1b false false
 --------------- 35 --------------
-  Wed Apr 22 15:30:42 EDT 2026
-ProcessKeyBinding 402 when=1776886242296 modifiers=0 code=10 char=ffff false false
+  Mon May 11 11:42:26 EDT 2026
+ProcessKeyBinding 402 when=1778514146122 modifiers=0 code=1b char=1b false false
 --------------- 36 --------------
-  Wed Apr 22 15:30:43 EDT 2026
+  Mon May 11 11:42:29 EDT 2026
 Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Ground[gnd@0].gnd'
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Ground[gnd@2].gnd'
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Ground[gnd@5].gnd'
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Ground[gnd@3].gnd'
 --------------- 37 --------------
-  Wed Apr 22 15:30:43 EDT 2026
-ProcessKeyBinding 400 when=1776886243079 modifiers=0 code=0 char=7f false false
+  Mon May 11 11:42:29 EDT 2026
+ProcessKeyBinding 400 when=1778514149015 modifiers=0 code=0 char=7f false false
 --------------- 38 --------------
-  Wed Apr 22 15:30:58 EDT 2026
-ProcessKeyBinding 401 when=1776886258541 modifiers=40 code=10 char=ffff false false
+  Mon May 11 11:42:29 EDT 2026
+ProcessKeyBinding 401 when=1778514149960 modifiers=80 code=11 char=ffff false false
 --------------- 39 --------------
-  Wed Apr 22 15:30:59 EDT 2026
-ProcessKeyBinding 402 when=1776886259996 modifiers=0 code=10 char=ffff false false
+  Mon May 11 11:42:30 EDT 2026
+Menu Activated: Edit | Undo
 --------------- 40 --------------
-  Wed Apr 22 15:31:00 EDT 2026
-ProcessKeyBinding 401 when=1776886260757 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:30 EDT 2026
+ProcessKeyBinding 400 when=1778514150153 modifiers=80 code=0 char=1a false false
 --------------- 41 --------------
-  Wed Apr 22 15:31:01 EDT 2026
-ProcessKeyBinding 402 when=1776886261609 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:30 EDT 2026
+ProcessKeyBinding 402 when=1778514150426 modifiers=0 code=11 char=ffff false false
 --------------- 42 --------------
-  Wed Apr 22 15:31:02 EDT 2026
-ProcessKeyBinding 401 when=1776886262022 modifiers=880 code=11 char=ffff false false
+  Mon May 11 11:42:34 EDT 2026
+ProcessKeyBinding 401 when=1778514154756 modifiers=80 code=11 char=ffff false false
 --------------- 43 --------------
-  Wed Apr 22 15:31:02 EDT 2026
-ProcessKeyBinding 402 when=1776886262556 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:34 EDT 2026
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
 --------------- 44 --------------
-  Wed Apr 22 15:31:14 EDT 2026
-ProcessKeyBinding 401 when=1776886274113 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:34 EDT 2026
+ProcessKeyBinding 400 when=1778514154898 modifiers=80 code=0 char=9 false false
 --------------- 45 --------------
-  Wed Apr 22 15:31:14 EDT 2026
-ProcessKeyBinding 402 when=1776886274935 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:42 EDT 2026
+ProcessKeyBinding 401 when=1778514162739 modifiers=80 code=11 char=ffff false false
 --------------- 46 --------------
-  Wed Apr 22 15:31:15 EDT 2026
-ProcessKeyBinding 401 when=1776886275653 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:43 EDT 2026
+ProcessKeyBinding 402 when=1778514163346 modifiers=0 code=11 char=ffff false false
 --------------- 47 --------------
-  Wed Apr 22 15:31:16 EDT 2026
-ProcessKeyBinding 402 when=1776886276440 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:43 EDT 2026
+ProcessKeyBinding 401 when=1778514163732 modifiers=80 code=11 char=ffff false false
 --------------- 48 --------------
-  Wed Apr 22 15:31:23 EDT 2026
-ProcessKeyBinding 401 when=1776886283359 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:44 EDT 2026
+ProcessKeyBinding 402 when=1778514164248 modifiers=0 code=11 char=ffff false false
 --------------- 49 --------------
-  Wed Apr 22 15:31:23 EDT 2026
-ProcessKeyBinding 402 when=1776886283967 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:45 EDT 2026
+ProcessKeyBinding 401 when=1778514165565 modifiers=80 code=11 char=ffff false false
 --------------- 50 --------------
-  Wed Apr 22 15:31:24 EDT 2026
-ProcessKeyBinding 401 when=1776886284615 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:45 EDT 2026
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE code
 --------------- 51 --------------
-  Wed Apr 22 15:31:24 EDT 2026
-Menu Activated: Edit | Undo
+  Mon May 11 11:42:45 EDT 2026
+ProcessKeyBinding 400 when=1778514165776 modifiers=80 code=0 char=1a false false
 --------------- 52 --------------
-  Wed Apr 22 15:31:24 EDT 2026
-ProcessKeyBinding 400 when=1776886284778 modifiers=80 code=0 char=1a false false
+  Mon May 11 11:42:46 EDT 2026
+ProcessKeyBinding 402 when=1778514166077 modifiers=0 code=11 char=ffff false false
 --------------- 53 --------------
-  Wed Apr 22 15:31:25 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': '4-Port-Transistor(nMOS)[nmos-4@1].b'
+  Mon May 11 11:42:46 EDT 2026
+ProcessKeyBinding 401 when=1778514166417 modifiers=80 code=11 char=ffff false false
 --------------- 54 --------------
-  Wed Apr 22 15:31:25 EDT 2026
-ProcessKeyBinding 400 when=1776886285049 modifiers=80 code=0 char=1a false false
+  Mon May 11 11:42:47 EDT 2026
+ProcessKeyBinding 402 when=1778514167224 modifiers=0 code=11 char=ffff false false
 --------------- 55 --------------
-  Wed Apr 22 15:31:25 EDT 2026
-ProcessKeyBinding 402 when=1776886285387 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:47 EDT 2026
+ProcessKeyBinding 401 when=1778514167696 modifiers=80 code=11 char=ffff false false
 --------------- 56 --------------
-  Wed Apr 22 15:31:41 EDT 2026
-ProcessKeyBinding 401 when=1776886301109 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:47 EDT 2026
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    SPICE code
 --------------- 57 --------------
-  Wed Apr 22 15:31:41 EDT 2026
-ProcessKeyBinding 402 when=1776886301649 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:47 EDT 2026
+ProcessKeyBinding 400 when=1778514167936 modifiers=80 code=0 char=1a false false
 --------------- 58 --------------
-  Wed Apr 22 15:32:10 EDT 2026
-ProcessKeyBinding 401 when=1776886330189 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:48 EDT 2026
+ProcessKeyBinding 402 when=1778514168297 modifiers=0 code=11 char=ffff false false
 --------------- 59 --------------
-  Wed Apr 22 15:32:11 EDT 2026
-ProcessKeyBinding 402 when=1776886331493 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:50 EDT 2026
+ProcessKeyBinding 401 when=1778514170145 modifiers=80 code=11 char=ffff false false
 --------------- 60 --------------
-  Wed Apr 22 15:32:12 EDT 2026
-ProcessKeyBinding 401 when=1776886332329 modifiers=80 code=11 char=ffff false false
+  Mon May 11 11:42:51 EDT 2026
+ProcessKeyBinding 402 when=1778514171238 modifiers=0 code=11 char=ffff false false
 --------------- 61 --------------
-  Wed Apr 22 15:32:12 EDT 2026
-ProcessKeyBinding 402 when=1776886332869 modifiers=0 code=11 char=ffff false false
+  Mon May 11 11:42:57 EDT 2026
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+Currently highlighted: 
+    SPICE code
 --------------- 62 --------------
-  Wed Apr 22 15:32:15 EDT 2026
-ProcessKeyBinding 401 when=1776886335964 modifiers=40 code=10 char=ffff false false
+  Mon May 11 11:52:14 EDT 2026
+Menu Activated: File | Open Library...
+Currently highlighted: 
+    SPICE code
 --------------- 63 --------------
-  Wed Apr 22 15:32:19 EDT 2026
-ProcessKeyBinding 402 when=1776886339039 modifiers=0 code=10 char=ffff false false
+  Mon May 11 11:55:06 EDT 2026
+Menu Activated: File | Open Library...
+Currently highlighted: 
+    SPICE code
 --------------- 64 --------------
-  Wed Apr 22 15:32:19 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Power[pwr@3].vdd'
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Power[pwr@5].vdd'
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Power[pwr@2].vdd'
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Power[pwr@4].vdd'
+  Mon May 11 11:55:28 EDT 2026
+ProcessKeyBinding 401 when=1778514928638 modifiers=80 code=11 char=ffff false false
 --------------- 65 --------------
-  Wed Apr 22 15:32:19 EDT 2026
-ProcessKeyBinding 400 when=1776886339779 modifiers=0 code=0 char=7f false false
+  Mon May 11 11:55:30 EDT 2026
+ProcessKeyBinding 402 when=1778514930183 modifiers=0 code=11 char=ffff false false
 --------------- 66 --------------
-  Wed Apr 22 15:32:21 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@256']
+  Mon May 11 11:57:25 EDT 2026
+ProcessKeyBinding 401 when=1778515045880 modifiers=80 code=11 char=ffff false false
 --------------- 67 --------------
-  Wed Apr 22 15:32:21 EDT 2026
-ProcessKeyBinding 400 when=1776886341745 modifiers=0 code=0 char=7f false false
+  Mon May 11 11:57:26 EDT 2026
+ProcessKeyBinding 402 when=1778515046703 modifiers=0 code=11 char=ffff false false
 --------------- 68 --------------
-  Wed Apr 22 15:32:22 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@260']
+  Mon May 11 12:00:00 EDT 2026
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
 --------------- 69 --------------
-  Wed Apr 22 15:32:22 EDT 2026
-ProcessKeyBinding 400 when=1776886342643 modifiers=0 code=0 char=7f false false
+  Mon May 11 12:11:55 EDT 2026
+ProcessKeyBinding 401 when=1778515915597 modifiers=80 code=11 char=ffff false false
 --------------- 70 --------------
-  Wed Apr 22 15:32:23 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@259']
+  Mon May 11 12:11:56 EDT 2026
+ProcessKeyBinding 402 when=1778515916025 modifiers=0 code=11 char=ffff false false
 --------------- 71 --------------
-  Wed Apr 22 15:32:23 EDT 2026
-ProcessKeyBinding 400 when=1776886343619 modifiers=0 code=0 char=7f false false
+  Mon May 11 12:11:56 EDT 2026
+ProcessKeyBinding 401 when=1778515916734 modifiers=80 code=11 char=ffff false false
 --------------- 72 --------------
-  Wed Apr 22 15:32:24 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@257']
+  Mon May 11 12:11:57 EDT 2026
+ProcessKeyBinding 402 when=1778515917232 modifiers=0 code=11 char=ffff false false
 --------------- 73 --------------
-  Wed Apr 22 15:32:24 EDT 2026
-ProcessKeyBinding 400 when=1776886344829 modifiers=0 code=0 char=7f false false
+  Mon May 11 12:17:54 EDT 2026
+Menu Activated: Shortcuts | Switch Wiring Target
 --------------- 74 --------------
-  Wed Apr 22 15:32:26 EDT 2026
-ProcessKeyBinding 401 when=1776886346429 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:17:54 EDT 2026
+ProcessKeyBinding 400 when=1778516274231 modifiers=0 code=0 char=20 false false
 --------------- 75 --------------
-  Wed Apr 22 15:32:26 EDT 2026
-Menu Activated: Edit | Undo
+  Mon May 11 12:31:20 EDT 2026
+Menu Activated: File | New Library...
 --------------- 76 --------------
-  Wed Apr 22 15:32:26 EDT 2026
-ProcessKeyBinding 400 when=1776886346619 modifiers=80 code=0 char=1a false false
+  Mon May 11 12:31:31 EDT 2026
+Menu Activated: Edit | Erase | Selected
 --------------- 77 --------------
-  Wed Apr 22 15:32:26 EDT 2026
-Menu Activated: Edit | Undo
+  Mon May 11 12:31:31 EDT 2026
+ProcessKeyBinding 400 when=1778517091525 modifiers=0 code=0 char=7f false false
 --------------- 78 --------------
-  Wed Apr 22 15:32:26 EDT 2026
-ProcessKeyBinding 400 when=1776886346779 modifiers=80 code=0 char=1a false false
+  Mon May 11 12:31:32 EDT 2026
+ProcessKeyBinding 401 when=1778517092453 modifiers=80 code=11 char=ffff false false
 --------------- 79 --------------
-  Wed Apr 22 15:32:26 EDT 2026
+  Mon May 11 12:31:32 EDT 2026
 Menu Activated: Edit | Undo
 --------------- 80 --------------
-  Wed Apr 22 15:32:26 EDT 2026
-ProcessKeyBinding 400 when=1776886346949 modifiers=80 code=0 char=1a false false
+  Mon May 11 12:31:32 EDT 2026
+ProcessKeyBinding 400 when=1778517092637 modifiers=80 code=0 char=1a false false
 --------------- 81 --------------
-  Wed Apr 22 15:32:27 EDT 2026
-Menu Activated: Edit | Undo
+  Mon May 11 12:31:32 EDT 2026
+ProcessKeyBinding 402 when=1778517092957 modifiers=0 code=11 char=ffff false false
 --------------- 82 --------------
-  Wed Apr 22 15:32:27 EDT 2026
-ProcessKeyBinding 400 when=1776886347633 modifiers=80 code=0 char=1a false false
+  Mon May 11 12:32:24 EDT 2026
+ProcessKeyBinding 401 when=1778517144191 modifiers=80 code=11 char=ffff false false
 --------------- 83 --------------
-  Wed Apr 22 15:32:28 EDT 2026
-ProcessKeyBinding 402 when=1776886348141 modifiers=0 code=11 char=ffff false false
+  Mon May 11 12:32:24 EDT 2026
+Menu Activated: Edit | Undo
 --------------- 84 --------------
-  Wed Apr 22 15:32:49 EDT 2026
-ProcessKeyBinding 401 when=1776886369091 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:32:24 EDT 2026
+ProcessKeyBinding 400 when=1778517144448 modifiers=80 code=0 char=1a false false
 --------------- 85 --------------
-  Wed Apr 22 15:32:49 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@104']
+  Mon May 11 12:32:24 EDT 2026
+ProcessKeyBinding 402 when=1778517144869 modifiers=0 code=11 char=ffff false false
 --------------- 86 --------------
-  Wed Apr 22 15:32:49 EDT 2026
-ProcessKeyBinding 400 when=1776886369380 modifiers=80 code=0 char=1a false false
+  Mon May 11 12:32:35 EDT 2026
+ProcessKeyBinding 401 when=1778517155676 modifiers=80 code=11 char=ffff false false
 --------------- 87 --------------
-  Wed Apr 22 15:32:49 EDT 2026
-ProcessKeyBinding 402 when=1776886369876 modifiers=0 code=11 char=ffff false false
+  Mon May 11 12:32:36 EDT 2026
+Menu Activated: Edit | Copy
+Currently highlighted: 
+    Export 'cout'
+    SPICE model on node N-Transistor['nmos@17']
+    SPICE model on node N-Transistor['nmos@16']
+    SPICE model on node N-Transistor['nmos@15']
+    Export 'nota'
+    SPICE model on node P-Transistor['pmos@15']
+    SPICE model on node P-Transistor['pmos@16']
+    SPICE model on node P-Transistor['pmos@14']
+    SPICE model on node P-Transistor['pmos@17']
+    SPICE model on node N-Transistor['nmos@2']
+    Export 'notb'
+    SPICE model on node P-Transistor['pmos@12']
+    Export 'notc'
+    SPICE model on node N-Transistor['nmos@3']
+    SPICE model on node N-Transistor['nmos@4']
+    SPICE model on node N-Transistor['nmos@5']
+    Export 'Sum'
+    SPICE model on node N-Transistor['nmos@9']
+    Export 'gnd_1'
+    SPICE model on node N-Transistor['nmos@14']
+    SPICE model on node N-Transistor['nmos@13']
+    SPICE model on node P-Transistor['pmos@13']
+    Export 'A'
+    Export 'B'
+    Export 'C'
+    SPICE model on node P-Transistor['pmos@0']
+    SPICE model on node P-Transistor['pmos@4']
+    SPICE model on node P-Transistor['pmos@3']
+    SPICE model on node P-Transistor['pmos@2']
+    SPICE model on node P-Transistor['pmos@1']
+    Export 'vdd'
+    SPICE model on node N-Transistor['nmos@12']
+    SPICE model on node P-Transistor['pmos@5']
+    SPICE model on node P-Transistor['pmos@6']
+    SPICE model on node N-Transistor['nmos@6']
+    Export 'gnd'
+    SPICE model on node P-Transistor['pmos@11']
+    SPICE model on node N-Transistor['nmos@8']
+    SPICE model on node N-Transistor['nmos@7']
+    SPICE model on node P-Transistor['pmos@7']
+    Export 'vdd_1'
+    SPICE model on node P-Transistor['pmos@10']
+    SPICE model on node N-Transistor['nmos@10']
+    SPICE model on node N-Transistor['nmos@0']
+    SPICE model on node N-Transistor['nmos@1']
+    Export 'vdd_2'
+    Export 'vcc'
+    SPICE model on node N-Transistor['nmos@11']
+    SPICE model on node P-Transistor['pmos@9']
+    SPICE model on node P-Transistor['pmos@8']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@20']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@98']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@97']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@172']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@170']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@93']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@83']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@84']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@80']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@76']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@60']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@7']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@97']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@99']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@173']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@9']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@8']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@7']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@15']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@7']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@16']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@19']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@21']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@29']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@23']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@92']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@64']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@93']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@28']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@30']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@102']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@18']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@22']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@24']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@52']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@7']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@23']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@62']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@57']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@94']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@22']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@61']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@26']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@24']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@58']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@154']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@95']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@94']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@146']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@127']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@162']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@85']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@18']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@8']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@8']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@16']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@77']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@149']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2-Pin['pin@86']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@87']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@156']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@69']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@78']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@150']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@76']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@47']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@155']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@9']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@35']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@27']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active-Pin['pin@26']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@157']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@158']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@89']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@98']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@48']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@47']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@166']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@82']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@91']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@169']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@49']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@51']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@73']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@71']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@50']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@74']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@111']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@116']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@113']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@107']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@63']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@117']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@135']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@144']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@82']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@83']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@17']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@16']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@15']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2-Pin['pin@163']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@64']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@164']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@89']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@105']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@129']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@106']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@62']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@19']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@9']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@174']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@140']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@29']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@56']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@55']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@31']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@70']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@61']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@124']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@125']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@139']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@115']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@17']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@104']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@60']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@152']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@63']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@71']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@75']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@151']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@17']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@165']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@15']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@16']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@132']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@143']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@81']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@14']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@80']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@145']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@128']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@79']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@81']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@37']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@36']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@91']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@59']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@58']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@57']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@56']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@41']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@21']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@96']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@9']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@9']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@13']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@12']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@39']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@101']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@67']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@28']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@6']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@7']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@86']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Transistor['nmos@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@39']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@103']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@90']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@88']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@68']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@52']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@30']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@40']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@27']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@20']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@153']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@17']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Transistor['pmos@10']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@114']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@161']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2-Pin['pin@100']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Metal-2-Con['contact@66']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@133']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@137']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Well-Con['well@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Pin['pin@95']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@19']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Active-Con['contact@18']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-P-Well-Con['substr@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1-Pin['pin@44']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@59']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-N-Active-Con['contact@25']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1-Polysilicon-1-Con['contact@38']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@46']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@8']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@47']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@71']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@49']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@45']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@239']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@68']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@72']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@48']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@96']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@520']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@521']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@525']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@248']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@33']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@34']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@38']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@39']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@23']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@28']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@29']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@9']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@20']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@21']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@22']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@17']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@18']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@24']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@56']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@249']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@30']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@40']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@41']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@42']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@55']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@60']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@61']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@70']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@69']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@59']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@254']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@296']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@299']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@312']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@314']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@87']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@37']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@79']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@74']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@90']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@66']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@253']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@58']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@213']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@217']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@212']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@263']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@284']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@530']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@281']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@526']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@36']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@527']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@457']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@501']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@97']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@498']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@499']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@274']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@73']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@95']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@262']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@307']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@317']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@524']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@533']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@255']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@256']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@244']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@240']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@246']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@519']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@252']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@243']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@316']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@315']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@531']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@532']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@250']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@241']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@515']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@360']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@331']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@361']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@513']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@432']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@426']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@452']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@511']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@401']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@402']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@403']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@417']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@505']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@504']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@433']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@506']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@502']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@366']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@345']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@365']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@367']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@431']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@514']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@438']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@435']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@439']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@455']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@454']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@534']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@392']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@391']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@434']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@325']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@442']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@456']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@141']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@148']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@481']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@149']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@150']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@271']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@272']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@343']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@140']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@482']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@483']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@145']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@275']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@337']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@387']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@465']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@341']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@478']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@480']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@324']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@323']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@344']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@376']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@147']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@220']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@333']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@466']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@332']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@374']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@330']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@329']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@328']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@354']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@371']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@373']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@388']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@508']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@346']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@327']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@512']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@273']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@368']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@364']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@348']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@379']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@385']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@464']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@468']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@467']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@347']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@326']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@416']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@448']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@450']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@451']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@453']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@400']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@399']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@397']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@398']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@396']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@410']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@411']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@409']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@125']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@118']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@117']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@126']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@193']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@195']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@198']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@289']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@290']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@109']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@108']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@286']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@51']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@52']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@53']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@57']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@209']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@210']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@121']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@43']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@44']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@285']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@287']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@151']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@528']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@91']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@89']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@88']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@92']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@93']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@322']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@489']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@76']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@75']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@77']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@80']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@261']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@62']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@181']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@336']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@81']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@486']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@487']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@78']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@67']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@63']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@335']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@207']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@474']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@142']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@395']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@484']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@509']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@127']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@136']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@138']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@128']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@278']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@300']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@301']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@302']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@102']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@230']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@291']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@510']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@340']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@488']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@197']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@490']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@139']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@485']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@124']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@334']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@470']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@471']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@115']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@116']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@303']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@305']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@420']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@218']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@418']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@430']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@304']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@472']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@133']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@129']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@130']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@292']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@222']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@152']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@293']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@137']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@338']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@475']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@476']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@259']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@288']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@339']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@491']
 --------------- 88 --------------
-  Wed Apr 22 15:33:02 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+  Mon May 11 12:32:36 EDT 2026
+ProcessKeyBinding 400 when=1778517156141 modifiers=80 code=0 char=3 false false
 --------------- 89 --------------
-  Wed Apr 22 15:33:22 EDT 2026
-ProcessKeyBinding 401 when=1776886402629 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:32:36 EDT 2026
+ProcessKeyBinding 402 when=1778517156341 modifiers=0 code=11 char=ffff false false
 --------------- 90 --------------
-  Wed Apr 22 15:33:23 EDT 2026
-ProcessKeyBinding 402 when=1776886403696 modifiers=0 code=11 char=ffff false false
+  Mon May 11 12:32:40 EDT 2026
+ProcessKeyBinding 401 when=1778517160535 modifiers=80 code=11 char=ffff false false
 --------------- 91 --------------
-  Wed Apr 22 15:33:24 EDT 2026
-ProcessKeyBinding 401 when=1776886404126 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:32:41 EDT 2026
+ProcessKeyBinding 402 when=1778517161109 modifiers=0 code=11 char=ffff false false
 --------------- 92 --------------
-  Wed Apr 22 15:33:25 EDT 2026
-ProcessKeyBinding 402 when=1776886405224 modifiers=0 code=11 char=ffff false false
+  Mon May 11 12:32:41 EDT 2026
+ProcessKeyBinding 401 when=1778517161702 modifiers=80 code=11 char=ffff false false
 --------------- 93 --------------
-  Wed Apr 22 15:33:54 EDT 2026
-ProcessKeyBinding 401 when=1776886434623 modifiers=0 code=45 char=65(e) false false
+  Mon May 11 12:32:41 EDT 2026
+Menu Activated: Edit | Selection | Select All
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@213']
 --------------- 94 --------------
-  Wed Apr 22 15:33:54 EDT 2026
-ProcessKeyBinding 400 when=1776886434623 modifiers=0 code=0 char=65(e) false false
+  Mon May 11 12:32:41 EDT 2026
+ProcessKeyBinding 400 when=1778517161860 modifiers=80 code=0 char=1 false false
 --------------- 95 --------------
-  Wed Apr 22 15:33:54 EDT 2026
-ProcessKeyBinding 402 when=1776886434706 modifiers=0 code=45 char=65(e) false false
+  Mon May 11 12:32:42 EDT 2026
+ProcessKeyBinding 402 when=1778517162014 modifiers=0 code=11 char=ffff false false
 --------------- 96 --------------
-  Wed Apr 22 15:33:55 EDT 2026
-ProcessKeyBinding 401 when=1776886435267 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:32:43 EDT 2026
+ProcessKeyBinding 401 when=1778517163365 modifiers=80 code=11 char=ffff false false
 --------------- 97 --------------
-  Wed Apr 22 15:33:55 EDT 2026
-Menu Activated: Export | Create Export...
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@63].wire'
+  Mon May 11 12:32:44 EDT 2026
+ProcessKeyBinding 402 when=1778517164847 modifiers=0 code=11 char=ffff false false
 --------------- 98 --------------
-  Wed Apr 22 15:33:55 EDT 2026
-ProcessKeyBinding 400 when=1776886435493 modifiers=80 code=0 char=5 false false
+  Mon May 11 12:32:47 EDT 2026
+ProcessKeyBinding 401 when=1778517167061 modifiers=80 code=11 char=ffff false false
 --------------- 99 --------------
-  Wed Apr 22 15:33:58 EDT 2026
-ProcessKeyBinding 402 when=1776886438838 modifiers=0 code=a char=a false false
+  Mon May 11 12:32:47 EDT 2026
+ProcessKeyBinding 402 when=1778517167620 modifiers=0 code=11 char=ffff false false
 --------------- 100 --------------
-  Wed Apr 22 15:34:01 EDT 2026
-ProcessKeyBinding 401 when=1776886441264 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:32:49 EDT 2026
+ProcessKeyBinding 401 when=1778517169441 modifiers=80 code=11 char=ffff false false
 --------------- 101 --------------
-  Wed Apr 22 15:34:01 EDT 2026
-Menu Activated: Export | Create Export...
+  Mon May 11 12:33:02 EDT 2026
+ProcessKeyBinding 402 when=1778517182377 modifiers=0 code=11 char=ffff false false
 --------------- 102 --------------
-  Wed Apr 22 15:34:01 EDT 2026
-ProcessKeyBinding 400 when=1776886441456 modifiers=80 code=0 char=5 false false
+  Mon May 11 12:33:03 EDT 2026
+ProcessKeyBinding 401 when=1778517183437 modifiers=80 code=11 char=ffff false false
 --------------- 103 --------------
-  Wed Apr 22 15:34:05 EDT 2026
-ProcessKeyBinding 401 when=1776886445743 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:33:03 EDT 2026
+Menu Activated: Edit | Paste
 --------------- 104 --------------
-  Wed Apr 22 15:34:05 EDT 2026
-Menu Activated: Export | Create Export...
+  Mon May 11 12:33:03 EDT 2026
+ProcessKeyBinding 400 when=1778517183692 modifiers=80 code=0 char=16 false false
 --------------- 105 --------------
-  Wed Apr 22 15:34:05 EDT 2026
-ProcessKeyBinding 400 when=1776886445902 modifiers=80 code=0 char=5 false false
+  Mon May 11 12:33:03 EDT 2026
+ProcessKeyBinding 402 when=1778517183931 modifiers=0 code=11 char=ffff false false
 --------------- 106 --------------
-  Wed Apr 22 15:34:15 EDT 2026
-ProcessKeyBinding 401 when=1776886455735 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:34:13 EDT 2026
+Menu Activated: File | Open Library...
 --------------- 107 --------------
-  Wed Apr 22 15:34:15 EDT 2026
-Menu Activated: Export | Create Export...
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@61].wire'
+  Mon May 11 12:34:23 EDT 2026
+ProcessKeyBinding 401 when=1778517263658 modifiers=80 code=11 char=ffff false false
 --------------- 108 --------------
-  Wed Apr 22 15:34:15 EDT 2026
-ProcessKeyBinding 400 when=1776886455910 modifiers=80 code=0 char=5 false false
+  Mon May 11 12:34:24 EDT 2026
+ProcessKeyBinding 402 when=1778517264340 modifiers=0 code=11 char=ffff false false
 --------------- 109 --------------
-  Wed Apr 22 15:34:17 EDT 2026
-ProcessKeyBinding 402 when=1776886457507 modifiers=0 code=a char=a false false
+  Mon May 11 12:34:25 EDT 2026
+ProcessKeyBinding 401 when=1778517265010 modifiers=80 code=11 char=ffff false false
 --------------- 110 --------------
-  Wed Apr 22 15:34:23 EDT 2026
-ProcessKeyBinding 401 when=1776886463274 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:34:25 EDT 2026
+ProcessKeyBinding 402 when=1778517265912 modifiers=0 code=11 char=ffff false false
 --------------- 111 --------------
-  Wed Apr 22 15:34:23 EDT 2026
-Menu Activated: Export | Create Export...
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@149']
+  Mon May 11 12:34:35 EDT 2026
+ProcessKeyBinding 401 when=1778517275790 modifiers=80 code=11 char=ffff false false
 --------------- 112 --------------
-  Wed Apr 22 15:34:23 EDT 2026
-ProcessKeyBinding 400 when=1776886463476 modifiers=80 code=0 char=5 false false
+  Mon May 11 12:34:38 EDT 2026
+ProcessKeyBinding 402 when=1778517278614 modifiers=0 code=11 char=ffff false false
 --------------- 113 --------------
-  Wed Apr 22 15:34:34 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+  Mon May 11 12:35:06 EDT 2026
+ProcessKeyBinding 401 when=1778517306450 modifiers=40 code=10 char=ffff false false
 --------------- 114 --------------
-  Wed Apr 22 15:36:04 EDT 2026
-ProcessKeyBinding 401 when=1776886564173 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:35:07 EDT 2026
+ProcessKeyBinding 402 when=1778517307449 modifiers=0 code=10 char=ffff false false
 --------------- 115 --------------
-  Wed Apr 22 15:36:06 EDT 2026
-ProcessKeyBinding 402 when=1776886566308 modifiers=0 code=11 char=ffff false false
+  Mon May 11 12:35:22 EDT 2026
+ProcessKeyBinding 401 when=1778517322382 modifiers=40 code=10 char=ffff false false
 --------------- 116 --------------
-  Wed Apr 22 15:36:12 EDT 2026
-ProcessKeyBinding 401 when=1776886572836 modifiers=80 code=11 char=ffff false false
+  Mon May 11 12:35:23 EDT 2026
+ProcessKeyBinding 402 when=1778517323079 modifiers=0 code=10 char=ffff false false
 --------------- 117 --------------
-  Wed Apr 22 15:36:14 EDT 2026
-ProcessKeyBinding 402 when=1776886574051 modifiers=0 code=11 char=ffff false false
+  Mon May 11 12:35:23 EDT 2026
+ProcessKeyBinding 401 when=1778517323268 modifiers=80 code=11 char=ffff false false
 --------------- 118 --------------
-  Wed Apr 22 15:36:19 EDT 2026
-ProcessKeyBinding 401 when=1776886579833 modifiers=80 code=11 char=ffff false false
---------------- 119 --------------
-  Wed Apr 22 15:36:20 EDT 2026
-ProcessKeyBinding 402 when=1776886580549 modifiers=0 code=11 char=ffff false false
---------------- 120 --------------
-  Wed Apr 22 15:36:21 EDT 2026
-ProcessKeyBinding 401 when=1776886581237 modifiers=80 code=11 char=ffff false false
---------------- 121 --------------
-  Wed Apr 22 15:36:21 EDT 2026
-ProcessKeyBinding 402 when=1776886581845 modifiers=0 code=11 char=ffff false false
---------------- 122 --------------
-  Wed Apr 22 15:36:36 EDT 2026
-ProcessKeyBinding 401 when=1776886596110 modifiers=80 code=11 char=ffff false false
---------------- 123 --------------
-  Wed Apr 22 15:36:36 EDT 2026
-ProcessKeyBinding 402 when=1776886596885 modifiers=0 code=11 char=ffff false false
---------------- 124 --------------
-  Wed Apr 22 15:37:21 EDT 2026
-ProcessKeyBinding 401 when=1776886641236 modifiers=80 code=11 char=ffff false false
---------------- 125 --------------
-  Wed Apr 22 15:37:22 EDT 2026
-ProcessKeyBinding 402 when=1776886642837 modifiers=0 code=11 char=ffff false false
---------------- 126 --------------
-  Wed Apr 22 15:37:33 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
-Currently highlighted: 
-    SPICE code
---------------- 127 --------------
-  Wed Apr 22 15:38:18 EDT 2026
-ProcessKeyBinding 401 when=1776886698910 modifiers=80 code=11 char=ffff false false
---------------- 128 --------------
-  Wed Apr 22 15:38:19 EDT 2026
-ProcessKeyBinding 402 when=1776886699704 modifiers=0 code=11 char=ffff false false
---------------- 129 --------------
-  Wed Apr 22 15:38:31 EDT 2026
-ProcessKeyBinding 401 when=1776886711963 modifiers=80 code=11 char=ffff false false
---------------- 130 --------------
-  Wed Apr 22 15:38:32 EDT 2026
-ProcessKeyBinding 402 when=1776886712901 modifiers=0 code=11 char=ffff false false
---------------- 131 --------------
-  Wed Apr 22 15:47:13 EDT 2026
-ProcessKeyBinding 401 when=1776887233729 modifiers=80 code=11 char=ffff false false
---------------- 132 --------------
-  Wed Apr 22 15:47:15 EDT 2026
-ProcessKeyBinding 402 when=1776887235819 modifiers=0 code=11 char=ffff false false
---------------- 133 --------------
-  Wed Apr 22 15:47:17 EDT 2026
-ProcessKeyBinding 401 when=1776887237421 modifiers=80 code=11 char=ffff false false
---------------- 134 --------------
-  Wed Apr 22 15:47:17 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@131].wire'
---------------- 135 --------------
-  Wed Apr 22 15:47:17 EDT 2026
-ProcessKeyBinding 400 when=1776887237690 modifiers=80 code=0 char=1a false false
---------------- 136 --------------
-  Wed Apr 22 15:47:17 EDT 2026
-ProcessKeyBinding 402 when=1776887237928 modifiers=0 code=11 char=ffff false false
---------------- 137 --------------
-  Wed Apr 22 15:47:21 EDT 2026
-ProcessKeyBinding 401 when=1776887241881 modifiers=80 code=11 char=ffff false false
---------------- 138 --------------
-  Wed Apr 22 15:47:23 EDT 2026
-ProcessKeyBinding 402 when=1776887243101 modifiers=0 code=11 char=ffff false false
---------------- 139 --------------
-  Wed Apr 22 15:47:36 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
---------------- 140 --------------
-  Wed Apr 22 15:48:54 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@282']
---------------- 141 --------------
-  Wed Apr 22 15:48:54 EDT 2026
-ProcessKeyBinding 400 when=1776887334665 modifiers=0 code=0 char=7f false false
---------------- 142 --------------
-  Wed Apr 22 15:49:08 EDT 2026
-ProcessKeyBinding 401 when=1776887348832 modifiers=80 code=11 char=ffff false false
---------------- 143 --------------
-  Wed Apr 22 15:49:09 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@135].wire'
---------------- 144 --------------
-  Wed Apr 22 15:49:09 EDT 2026
-ProcessKeyBinding 400 when=1776887349170 modifiers=80 code=0 char=1a false false
---------------- 145 --------------
-  Wed Apr 22 15:49:09 EDT 2026
-ProcessKeyBinding 402 when=1776887349756 modifiers=0 code=11 char=ffff false false
---------------- 146 --------------
-  Wed Apr 22 15:49:10 EDT 2026
-ProcessKeyBinding 401 when=1776887350025 modifiers=80 code=11 char=ffff false false
---------------- 147 --------------
-  Wed Apr 22 15:49:10 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@134].wire'
---------------- 148 --------------
-  Wed Apr 22 15:49:10 EDT 2026
-ProcessKeyBinding 400 when=1776887350201 modifiers=80 code=0 char=1a false false
---------------- 149 --------------
-  Wed Apr 22 15:49:10 EDT 2026
-ProcessKeyBinding 402 when=1776887350395 modifiers=0 code=11 char=ffff false false
---------------- 150 --------------
-  Wed Apr 22 15:49:20 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
-Currently highlighted: 
-    SPICE code
---------------- 151 --------------
-  Wed Apr 22 15:52:34 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@192']
---------------- 152 --------------
-  Wed Apr 22 15:52:34 EDT 2026
-ProcessKeyBinding 400 when=1776887554284 modifiers=0 code=0 char=7f false false
---------------- 153 --------------
-  Wed Apr 22 15:52:39 EDT 2026
-ProcessKeyBinding 401 when=1776887559814 modifiers=80 code=11 char=ffff false false
---------------- 154 --------------
-  Wed Apr 22 15:52:40 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'LAB1:INVERTER{ic}[INVERTER@1].in'
---------------- 155 --------------
-  Wed Apr 22 15:52:40 EDT 2026
-ProcessKeyBinding 400 when=1776887560282 modifiers=80 code=0 char=1a false false
---------------- 156 --------------
-  Wed Apr 22 15:52:40 EDT 2026
-ProcessKeyBinding 402 when=1776887560552 modifiers=0 code=11 char=ffff false false
---------------- 157 --------------
-  Wed Apr 22 15:53:01 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
---------------- 158 --------------
-  Wed Apr 22 15:55:03 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@279']
---------------- 159 --------------
-  Wed Apr 22 15:55:03 EDT 2026
-ProcessKeyBinding 400 when=1776887703382 modifiers=0 code=0 char=7f false false
---------------- 160 --------------
-  Wed Apr 22 15:55:04 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@277']
---------------- 161 --------------
-  Wed Apr 22 15:55:04 EDT 2026
-ProcessKeyBinding 400 when=1776887704244 modifiers=0 code=0 char=7f false false
---------------- 162 --------------
-  Wed Apr 22 15:55:10 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@294']
---------------- 163 --------------
-  Wed Apr 22 15:55:10 EDT 2026
-ProcessKeyBinding 400 when=1776887710132 modifiers=0 code=0 char=7f false false
---------------- 164 --------------
-  Wed Apr 22 15:55:12 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@293']
---------------- 165 --------------
-  Wed Apr 22 15:55:12 EDT 2026
-ProcessKeyBinding 400 when=1776887712161 modifiers=0 code=0 char=7f false false
---------------- 166 --------------
-  Wed Apr 22 15:55:12 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@284']
---------------- 167 --------------
-  Wed Apr 22 15:55:12 EDT 2026
-ProcessKeyBinding 400 when=1776887712822 modifiers=0 code=0 char=7f false false
---------------- 168 --------------
-  Wed Apr 22 15:55:13 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@295']
---------------- 169 --------------
-  Wed Apr 22 15:55:13 EDT 2026
-ProcessKeyBinding 400 when=1776887713935 modifiers=0 code=0 char=7f false false
---------------- 170 --------------
-  Wed Apr 22 15:55:16 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@132].wire'
---------------- 171 --------------
-  Wed Apr 22 15:55:16 EDT 2026
-ProcessKeyBinding 400 when=1776887716100 modifiers=0 code=0 char=7f false false
---------------- 172 --------------
-  Wed Apr 22 15:55:19 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@300']
---------------- 173 --------------
-  Wed Apr 22 15:55:19 EDT 2026
-ProcessKeyBinding 400 when=1776887719782 modifiers=0 code=0 char=7f false false
---------------- 174 --------------
-  Wed Apr 22 15:55:33 EDT 2026
-ProcessKeyBinding 401 when=1776887733997 modifiers=80 code=11 char=ffff false false
---------------- 175 --------------
-  Wed Apr 22 15:55:34 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@139].wire'
---------------- 176 --------------
-  Wed Apr 22 15:55:34 EDT 2026
-ProcessKeyBinding 400 when=1776887734617 modifiers=80 code=0 char=1a false false
---------------- 177 --------------
-  Wed Apr 22 15:55:34 EDT 2026
-ProcessKeyBinding 402 when=1776887734837 modifiers=0 code=11 char=ffff false false
---------------- 178 --------------
-  Wed Apr 22 15:55:39 EDT 2026
-ProcessKeyBinding 401 when=1776887739472 modifiers=80 code=11 char=ffff false false
---------------- 179 --------------
-  Wed Apr 22 15:55:39 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': '4-Port-Transistor(pMOS)[pmos-4@2].g'
---------------- 180 --------------
-  Wed Apr 22 15:55:39 EDT 2026
-ProcessKeyBinding 400 when=1776887739637 modifiers=80 code=0 char=1a false false
---------------- 181 --------------
-  Wed Apr 22 15:55:39 EDT 2026
-ProcessKeyBinding 402 when=1776887739849 modifiers=0 code=11 char=ffff false false
---------------- 182 --------------
-  Wed Apr 22 15:55:41 EDT 2026
-ProcessKeyBinding 401 when=1776887741896 modifiers=80 code=11 char=ffff false false
---------------- 183 --------------
-  Wed Apr 22 15:55:42 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@141].wire'
---------------- 184 --------------
-  Wed Apr 22 15:55:42 EDT 2026
-ProcessKeyBinding 400 when=1776887742071 modifiers=80 code=0 char=1a false false
---------------- 185 --------------
-  Wed Apr 22 15:55:42 EDT 2026
-ProcessKeyBinding 402 when=1776887742272 modifiers=0 code=11 char=ffff false false
---------------- 186 --------------
-  Wed Apr 22 15:55:55 EDT 2026
-ProcessKeyBinding 401 when=1776887755637 modifiers=80 code=11 char=ffff false false
---------------- 187 --------------
-  Wed Apr 22 15:55:55 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': '4-Port-Transistor(pMOS)[pmos-4@7].g'
---------------- 188 --------------
-  Wed Apr 22 15:55:55 EDT 2026
-ProcessKeyBinding 400 when=1776887755792 modifiers=80 code=0 char=1a false false
---------------- 189 --------------
-  Wed Apr 22 15:55:56 EDT 2026
-ProcessKeyBinding 402 when=1776887756001 modifiers=0 code=11 char=ffff false false
---------------- 190 --------------
-  Wed Apr 22 15:55:57 EDT 2026
-ProcessKeyBinding 401 when=1776887757561 modifiers=80 code=11 char=ffff false false
---------------- 191 --------------
-  Wed Apr 22 15:55:57 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@144].wire'
---------------- 192 --------------
-  Wed Apr 22 15:55:57 EDT 2026
-ProcessKeyBinding 400 when=1776887757696 modifiers=80 code=0 char=1a false false
---------------- 193 --------------
-  Wed Apr 22 15:55:57 EDT 2026
-ProcessKeyBinding 402 when=1776887757930 modifiers=0 code=11 char=ffff false false
---------------- 194 --------------
-  Wed Apr 22 15:56:03 EDT 2026
-ProcessKeyBinding 401 when=1776887763369 modifiers=80 code=11 char=ffff false false
---------------- 195 --------------
-  Wed Apr 22 15:56:03 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': '4-Port-Transistor(nMOS)[nmos-4@5].g'
---------------- 196 --------------
-  Wed Apr 22 15:56:03 EDT 2026
-ProcessKeyBinding 400 when=1776887763664 modifiers=80 code=0 char=1a false false
---------------- 197 --------------
-  Wed Apr 22 15:56:04 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@146].wire'
---------------- 198 --------------
-  Wed Apr 22 15:56:04 EDT 2026
-ProcessKeyBinding 400 when=1776887764106 modifiers=80 code=0 char=1a false false
---------------- 199 --------------
-  Wed Apr 22 15:56:04 EDT 2026
-ProcessKeyBinding 402 when=1776887764312 modifiers=0 code=11 char=ffff false false
---------------- 200 --------------
-  Wed Apr 22 15:56:11 EDT 2026
-Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
---------------- 201 --------------
-  Wed Apr 22 15:59:02 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@144']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@309']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@310']
---------------- 202 --------------
-  Wed Apr 22 15:59:02 EDT 2026
-ProcessKeyBinding 400 when=1776887942733 modifiers=0 code=0 char=7f false false
---------------- 203 --------------
-  Wed Apr 22 15:59:03 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@308']
---------------- 204 --------------
-  Wed Apr 22 15:59:03 EDT 2026
-ProcessKeyBinding 400 when=1776887943654 modifiers=0 code=0 char=7f false false
---------------- 205 --------------
-  Wed Apr 22 15:59:08 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@306']
---------------- 206 --------------
-  Wed Apr 22 15:59:08 EDT 2026
-ProcessKeyBinding 400 when=1776887948744 modifiers=0 code=0 char=7f false false
---------------- 207 --------------
-  Wed Apr 22 15:59:09 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@141].wire'
---------------- 208 --------------
-  Wed Apr 22 15:59:09 EDT 2026
-ProcessKeyBinding 400 when=1776887949774 modifiers=0 code=0 char=7f false false
---------------- 209 --------------
-  Wed Apr 22 15:59:11 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@140']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@139']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@302']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@303']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@304']
---------------- 210 --------------
-  Wed Apr 22 15:59:11 EDT 2026
-ProcessKeyBinding 400 when=1776887951221 modifiers=0 code=0 char=7f false false
---------------- 211 --------------
-  Wed Apr 22 15:59:12 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@292']
---------------- 212 --------------
-  Wed Apr 22 15:59:12 EDT 2026
-ProcessKeyBinding 400 when=1776887952541 modifiers=0 code=0 char=7f false false
---------------- 213 --------------
-  Wed Apr 22 15:59:13 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@138']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@134']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@301']
---------------- 214 --------------
-  Wed Apr 22 15:59:13 EDT 2026
-ProcessKeyBinding 400 when=1776887953959 modifiers=0 code=0 char=7f false false
---------------- 215 --------------
-  Wed Apr 22 15:59:14 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@126']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@127']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@278']
---------------- 216 --------------
-  Wed Apr 22 15:59:14 EDT 2026
-ProcessKeyBinding 400 when=1776887954902 modifiers=0 code=0 char=7f false false
---------------- 217 --------------
-  Wed Apr 22 15:59:19 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Wire_Pin['pin@146']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@312']
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@313']
---------------- 218 --------------
-  Wed Apr 22 15:59:19 EDT 2026
-ProcessKeyBinding 400 when=1776887959916 modifiers=0 code=0 char=7f false false
---------------- 219 --------------
-  Wed Apr 22 15:59:21 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Wire_Pin[pin@145].wire'
---------------- 220 --------------
-  Wed Apr 22 15:59:21 EDT 2026
-ProcessKeyBinding 400 when=1776887961272 modifiers=0 code=0 char=7f false false
---------------- 221 --------------
-  Wed Apr 22 16:00:39 EDT 2026
-Menu Activated: Edit | Erase | Selected
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': wire['net@307']
---------------- 222 --------------
-  Wed Apr 22 16:00:39 EDT 2026
-ProcessKeyBinding 400 when=1776888039622 modifiers=0 code=0 char=7f false false
---------------- 223 --------------
-  Wed Apr 22 16:00:52 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 224 --------------
-  Wed Apr 22 16:00:52 EDT 2026
-ProcessKeyBinding 400 when=1776888052262 modifiers=0 code=0 char=20 false false
---------------- 225 --------------
-  Wed Apr 22 16:00:52 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 226 --------------
-  Wed Apr 22 16:00:52 EDT 2026
-ProcessKeyBinding 400 when=1776888052459 modifiers=0 code=0 char=20 false false
---------------- 227 --------------
-  Wed Apr 22 16:00:52 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 228 --------------
-  Wed Apr 22 16:00:52 EDT 2026
-ProcessKeyBinding 400 when=1776888052875 modifiers=0 code=0 char=20 false false
---------------- 229 --------------
-  Wed Apr 22 16:00:53 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 230 --------------
-  Wed Apr 22 16:00:53 EDT 2026
-ProcessKeyBinding 400 when=1776888053065 modifiers=0 code=0 char=20 false false
---------------- 231 --------------
-  Wed Apr 22 16:00:53 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 232 --------------
-  Wed Apr 22 16:00:53 EDT 2026
-ProcessKeyBinding 400 when=1776888053320 modifiers=0 code=0 char=20 false false
---------------- 233 --------------
-  Wed Apr 22 16:00:54 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@0].y'
---------------- 234 --------------
-  Wed Apr 22 16:00:54 EDT 2026
-ProcessKeyBinding 400 when=1776888054608 modifiers=0 code=0 char=20 false false
---------------- 235 --------------
-  Wed Apr 22 16:00:54 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@0].y'
---------------- 236 --------------
-  Wed Apr 22 16:00:54 EDT 2026
-ProcessKeyBinding 400 when=1776888054807 modifiers=0 code=0 char=20 false false
---------------- 237 --------------
-  Wed Apr 22 16:00:56 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@0].y'
---------------- 238 --------------
-  Wed Apr 22 16:00:56 EDT 2026
-ProcessKeyBinding 400 when=1776888056476 modifiers=0 code=0 char=20 false false
---------------- 239 --------------
-  Wed Apr 22 16:00:58 EDT 2026
-ProcessKeyBinding 401 when=1776888058108 modifiers=80 code=11 char=ffff false false
---------------- 240 --------------
-  Wed Apr 22 16:00:58 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@0].y'
---------------- 241 --------------
-  Wed Apr 22 16:00:58 EDT 2026
-ProcessKeyBinding 400 when=1776888058339 modifiers=80 code=0 char=1a false false
---------------- 242 --------------
-  Wed Apr 22 16:00:58 EDT 2026
-Menu Activated: Edit | Undo
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@0].y'
---------------- 243 --------------
-  Wed Apr 22 16:00:58 EDT 2026
-ProcessKeyBinding 400 when=1776888058935 modifiers=80 code=0 char=1a false false
---------------- 244 --------------
-  Wed Apr 22 16:00:59 EDT 2026
-ProcessKeyBinding 402 when=1776888059284 modifiers=0 code=11 char=ffff false false
---------------- 245 --------------
-  Wed Apr 22 16:01:01 EDT 2026
-Menu Activated: Shortcuts | Switch Wiring Target
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightLine in cell 'FullAdtScehmatic{sch}': 
-    com.sun.electric.tool.user.HighlightLine in cell 'FullAdtScehmatic{sch}': 
-    com.sun.electric.tool.user.HighlightLine in cell 'FullAdtScehmatic{sch}': 
-    com.sun.electric.tool.user.HighlightLine in cell 'FullAdtScehmatic{sch}': 
---------------- 246 --------------
-  Wed Apr 22 16:01:01 EDT 2026
-ProcessKeyBinding 400 when=1776888061096 modifiers=0 code=0 char=20 false false
---------------- 247 --------------
-  Wed Apr 22 16:01:02 EDT 2026
-ProcessKeyBinding 401 when=1776888062946 modifiers=80 code=11 char=ffff false false
---------------- 248 --------------
-  Wed Apr 22 16:01:03 EDT 2026
-ProcessKeyBinding 401 when=1776888063208 modifiers=80 code=52 char=12 false false
---------------- 249 --------------
-  Wed Apr 22 16:01:03 EDT 2026
-ProcessKeyBinding 400 when=1776888063208 modifiers=80 code=0 char=12 false false
---------------- 250 --------------
-  Wed Apr 22 16:01:03 EDT 2026
-ProcessKeyBinding 402 when=1776888063297 modifiers=80 code=52 char=12 false false
---------------- 251 --------------
-  Wed Apr 22 16:01:03 EDT 2026
-ProcessKeyBinding 402 when=1776888063507 modifiers=0 code=11 char=ffff false false
---------------- 252 --------------
-  Wed Apr 22 16:01:03 EDT 2026
-ProcessKeyBinding 401 when=1776888063879 modifiers=80 code=11 char=ffff false false
---------------- 253 --------------
-  Wed Apr 22 16:01:03 EDT 2026
-ProcessKeyBinding 402 when=1776888063898 modifiers=0 code=11 char=ffff false false
---------------- 254 --------------
-  Wed Apr 22 16:01:04 EDT 2026
-ProcessKeyBinding 401 when=1776888064447 modifiers=80 code=11 char=ffff false false
---------------- 255 --------------
-  Wed Apr 22 16:01:04 EDT 2026
-ProcessKeyBinding 401 when=1776888064580 modifiers=80 code=52 char=12 false false
---------------- 256 --------------
-  Wed Apr 22 16:01:04 EDT 2026
-ProcessKeyBinding 400 when=1776888064580 modifiers=80 code=0 char=12 false false
---------------- 257 --------------
-  Wed Apr 22 16:01:04 EDT 2026
-ProcessKeyBinding 402 when=1776888064689 modifiers=80 code=52 char=12 false false
---------------- 258 --------------
-  Wed Apr 22 16:01:04 EDT 2026
-ProcessKeyBinding 402 when=1776888064957 modifiers=0 code=11 char=ffff false false
---------------- 259 --------------
-  Wed Apr 22 16:01:05 EDT 2026
-ProcessKeyBinding 401 when=1776888065444 modifiers=80 code=11 char=ffff false false
---------------- 260 --------------
-  Wed Apr 22 16:01:05 EDT 2026
-Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 261 --------------
-  Wed Apr 22 16:01:05 EDT 2026
-ProcessKeyBinding 400 when=1776888065747 modifiers=80 code=0 char=a false false
---------------- 262 --------------
-  Wed Apr 22 16:01:06 EDT 2026
-Menu Activated: Edit | Rotate | 90 Degrees Counterclockwise
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': Off-Page['conn@0']
---------------- 263 --------------
-  Wed Apr 22 16:01:06 EDT 2026
-ProcessKeyBinding 400 when=1776888066187 modifiers=80 code=0 char=a false false
---------------- 264 --------------
-  Wed Apr 22 16:01:06 EDT 2026
-ProcessKeyBinding 402 when=1776888066607 modifiers=0 code=11 char=ffff false false
---------------- 265 --------------
-  Wed Apr 22 16:01:13 EDT 2026
-ProcessKeyBinding 401 when=1776888073127 modifiers=80 code=11 char=ffff false false
---------------- 266 --------------
-  Wed Apr 22 16:01:13 EDT 2026
-Menu Activated: Export | Create Export...
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@0].a'
---------------- 267 --------------
-  Wed Apr 22 16:01:13 EDT 2026
-ProcessKeyBinding 400 when=1776888073278 modifiers=80 code=0 char=5 false false
---------------- 268 --------------
-  Wed Apr 22 16:01:21 EDT 2026
-ProcessKeyBinding 402 when=1776888081821 modifiers=0 code=a char=a false false
---------------- 269 --------------
-  Wed Apr 22 16:01:44 EDT 2026
-ProcessKeyBinding 401 when=1776888104612 modifiers=80 code=11 char=ffff false false
---------------- 270 --------------
-  Wed Apr 22 16:01:44 EDT 2026
-Menu Activated: Export | Create Export...
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@1].a'
---------------- 271 --------------
-  Wed Apr 22 16:01:44 EDT 2026
-ProcessKeyBinding 400 when=1776888104942 modifiers=80 code=0 char=5 false false
---------------- 272 --------------
-  Wed Apr 22 16:01:47 EDT 2026
-ProcessKeyBinding 402 when=1776888107416 modifiers=0 code=a char=a false false
---------------- 273 --------------
-  Wed Apr 22 16:01:50 EDT 2026
-ProcessKeyBinding 401 when=1776888110663 modifiers=80 code=11 char=ffff false false
---------------- 274 --------------
-  Wed Apr 22 16:01:50 EDT 2026
-Menu Activated: Edit | Cut
-Currently highlighted: 
-    Export 'Cinnot_1'
---------------- 275 --------------
-  Wed Apr 22 16:01:50 EDT 2026
-ProcessKeyBinding 400 when=1776888110792 modifiers=80 code=0 char=18 false false
---------------- 276 --------------
-  Wed Apr 22 16:01:50 EDT 2026
-ProcessKeyBinding 402 when=1776888110966 modifiers=0 code=11 char=ffff false false
---------------- 277 --------------
-  Wed Apr 22 16:01:51 EDT 2026
-ProcessKeyBinding 401 when=1776888111994 modifiers=80 code=11 char=ffff false false
---------------- 278 --------------
-  Wed Apr 22 16:01:52 EDT 2026
-ProcessKeyBinding 402 when=1776888112109 modifiers=0 code=11 char=ffff false false
---------------- 279 --------------
-  Wed Apr 22 16:01:52 EDT 2026
-ProcessKeyBinding 401 when=1776888112517 modifiers=80 code=11 char=ffff false false
---------------- 280 --------------
-  Wed Apr 22 16:01:52 EDT 2026
-Menu Activated: Edit | Properties | Object Properties...
-Currently highlighted: 
-    com.sun.electric.tool.user.HighlightEOBJ in cell 'FullAdtScehmatic{sch}': 'Off-Page[conn@1].y'
---------------- 281 --------------
-  Wed Apr 22 16:01:52 EDT 2026
-ProcessKeyBinding 400 when=1776888112673 modifiers=80 code=0 char=9 false false
---------------- 282 --------------
-  Wed Apr 22 16:02:47 EDT 2026
-ProcessKeyBinding 401 when=1776888167795 modifiers=80 code=11 char=ffff false false
---------------- 283 --------------
-  Wed Apr 22 16:02:47 EDT 2026
-Menu Activated: Edit | Properties | Object Properties...
-Currently 
+  Mon May 11 12:35:23 EDT 2026
+ProcessKeyBinding 402 when=1778517323843 modifiers=0 code=11 char=ffff false false

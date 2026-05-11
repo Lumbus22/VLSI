@@ -14,7 +14,7 @@ LLAB1|LAB1
 Tmocmos|ScaleFORmocmos()D100.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
 
 # Cell FullAdder_sim_icon;1{lay}
-CFullAdder_sim_icon;1{lay}||mocmos|1774465971701|1774469853740|
+CFullAdder_sim_icon;1{lay}||mocmos|1774465971701|1778514169849|
 IFullAddr;1{lay}|FullAddr@1||-30|58|||D5G4;
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-Pin|pin@0||139.5|56||||
@@ -22,7 +22,7 @@ NMetal-1-Pin|pin@1||132.5|-111.5||||
 NMetal-1-Pin|pin@2||-116|107||||
 NMetal-1-Pin|pin@3||-116|116.5||||
 NMetal-1-Pin|pin@4||-116.5|126.5||||
-Ngeneric:Invisible-Pin|pin@5||175|22|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 3,vA A 0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB B 0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),vCin Cin 0 PULSE (0 3 0 0.001ns 0.001ns 40ns 80ns),.tran 0 100n,".include C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib",*Sum Measurements. Rise and Fall times,.meas TRAN Sumtfall1 FIND time WHEN v(sum) = 2.7 cross = 2,.meas TRAN Sumtfall2 FIND time WHEN v(sum) = 0.3 cross = 2,.meas TRAN Sumtrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Sumtrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Sumtphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Sumtphl2 FIND time WHEN v(sum) = 1.5 cross = 5,.meas TRAN Sumtplh1 FIND time WHEN v(a) = 1.5 cross = 4,.meas TRAN Sumtplh2 FIND time WHEN v(sum) = 1.5 cross = 3,*Cout Measurements. Rise and Fall times,.meas TRAN Couttfall1 FIND time WHEN v(cout) = 2.7 cross = 2,.meas TRAN Couttfall2 FIND time WHEN v(cout) = 0.3 cross = 2,.meas TRAN Couttrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Couttrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Couttphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Couttphl2 FIND time WHEN v(cout) = 1.5 cross = 4,.meas TRAN Couttplh1 FIND time WHEN v(a) = 1.5 cross = 5,.meas TRAN Couttplh2 FIND time WHEN v(cout) = 1.5 cross = 3]
+Ngeneric:Invisible-Pin|pin@5||159|18|||||SIM_spice_card(D5G1;)S[vdd vdd 0 DC 3,vA A 0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB B 0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),vCin Cin 0 PULSE (0 3 0 0.001ns 0.001ns 40ns 80ns),.tran 0 100n,".include C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib",*Sum Measurements. Rise and Fall times,.meas TRAN Sumtfall1 FIND time WHEN v(sum) = 2.7 cross = 2,.meas TRAN Sumtfall2 FIND time WHEN v(sum) = 0.3 cross = 2,.meas TRAN Sumtrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Sumtrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Sumtphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Sumtphl2 FIND time WHEN v(sum) = 1.5 cross = 5,.meas TRAN Sumtplh1 FIND time WHEN v(a) = 1.5 cross = 4,.meas TRAN Sumtplh2 FIND time WHEN v(sum) = 1.5 cross = 3,*Cout Measurements. Rise and Fall times,.meas TRAN Couttfall1 FIND time WHEN v(cout) = 2.7 cross = 2,.meas TRAN Couttfall2 FIND time WHEN v(cout) = 0.3 cross = 2,.meas TRAN Couttrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Couttrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Couttphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Couttphl2 FIND time WHEN v(cout) = 1.5 cross = 4,.meas TRAN Couttplh1 FIND time WHEN v(a) = 1.5 cross = 5,.meas TRAN Couttplh2 FIND time WHEN v(cout) = 1.5 cross = 3]
 NMetal-1-Pin|pin@8||66.5|141||||
 NMetal-1-Pin|pin@10||-32|-164.5||||
 AMetal-1|A|D5G3;||S0|FullAddr@1|A|-102.5|126.5|pin@4||-116.5|126.5
@@ -597,7 +597,7 @@ Evdd_2||D5G2;|well@3||U
 X
 
 # Cell FullAdtScehmatic;1{sch}
-CFullAdtScehmatic;1{sch}||schematic|1774470852507|1776888400166|
+CFullAdtScehmatic;1{sch}||schematic|1774470852507|1778514119570|
 ILAB1:INVERTER;1{ic}|INVERTER@0||-49.5|30|||D5G4;
 ILAB1:INVERTER;1{ic}|INVERTER@1||-49.5|23|||D5G4;
 ILAB1:INVERTER;1{ic}|INVERTER@2||-49.5|16|||D5G4;
@@ -657,10 +657,8 @@ NWire_Pin|pin@68||21|-13.5||||
 NWire_Pin|pin@74||22|-32||||
 NWire_Pin|pin@78||21|-31||||
 NWire_Pin|pin@79||-9.5|-20||||
-NWire_Pin|pin@80||-9.5|11.5||||
 NWire_Pin|pin@81||-8.5|-31||||
 NWire_Pin|pin@82||-20|-32||||
-NWire_Pin|pin@85||-9.5|12.5||||
 NWire_Pin|pin@89||5.5|12||||
 NWire_Pin|pin@90||5.5|-31||||
 NWire_Pin|pin@94||-9.5|-19||||
@@ -670,7 +668,7 @@ NWire_Pin|pin@101||6.5|4.5||||
 NWire_Pin|pin@103||22.5|19.5||||
 NWire_Pin|pin@106||19.5|5||||
 NWire_Pin|pin@107||19.5|-32||||
-Ngeneric:Invisible-Pin|pin@108||80|0.5|||||SIM_spice_card(D5G2;)S[vdd vdd 0 DC 3,vA A 0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB B 0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),vCin Cin 0 PULSE (0 3 0 0.001ns 0.001ns 40ns 80ns),.tran 0 100n,".include C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib",*Sum Measurements. Rise and Fall times,.meas TRAN Sumtfall1 FIND time WHEN v(sum) = 2.7 cross = 2,.meas TRAN Sumtfall2 FIND time WHEN v(sum) = 0.3 cross = 2,.meas TRAN Sumtrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Sumtrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Sumtphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Sumtphl2 FIND time WHEN v(sum) = 1.5 cross = 5,.meas TRAN Sumtplh1 FIND time WHEN v(a) = 1.5 cross = 4,.meas TRAN Sumtplh2 FIND time WHEN v(sum) = 1.5 cross = 3,*Cout Measurements. Rise and Fall times,.meas TRAN Couttfall1 FIND time WHEN v(cout) = 2.7 cross = 2,.meas TRAN Couttfall2 FIND time WHEN v(cout) = 0.3 cross = 2,.meas TRAN Couttrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Couttrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Couttphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Couttphl2 FIND time WHEN v(cout) = 1.5 cross = 4,.meas TRAN Couttplh1 FIND time WHEN v(a) = 1.5 cross = 5,.meas TRAN Couttplh2 FIND time WHEN v(cout) = 1.5 cross = 3]
+Ngeneric:Invisible-Pin|pin@108||78.5|2|||||SIM_spice_card(D5G2;)S[vdd vdd 0 DC 3,vA A 0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB B 0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),vCin Cin 0 PULSE (0 3 0 0.001ns 0.001ns 40ns 80ns),.tran 0 100n,".include C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib",*Sum Measurements. Rise and Fall times,.meas TRAN Sumtfall1 FIND time WHEN v(sum) = 2.7 cross = 2,.meas TRAN Sumtfall2 FIND time WHEN v(sum) = 0.3 cross = 2,.meas TRAN Sumtrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Sumtrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Sumtphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Sumtphl2 FIND time WHEN v(sum) = 1.5 cross = 5,.meas TRAN Sumtplh1 FIND time WHEN v(a) = 1.5 cross = 4,.meas TRAN Sumtplh2 FIND time WHEN v(sum) = 1.5 cross = 3,*Cout Measurements. Rise and Fall times,.meas TRAN Couttfall1 FIND time WHEN v(cout) = 2.7 cross = 2,.meas TRAN Couttfall2 FIND time WHEN v(cout) = 0.3 cross = 2,.meas TRAN Couttrise1 FIND time WHEN v(sum) = 0.3 cross = 3,.meas TRAN Couttrise2 FIND time WHEN v(sum) = 2.7 cross = 3,*Measure Propogation delay,.meas TRAN Couttphl1 FIND time WHEN v(a) = 1.5 cross = 6,.meas TRAN Couttphl2 FIND time WHEN v(cout) = 1.5 cross = 4,.meas TRAN Couttplh1 FIND time WHEN v(a) = 1.5 cross = 5,.meas TRAN Couttplh2 FIND time WHEN v(cout) = 1.5 cross = 3]
 NWire_Pin|pin@109||28.5|-0.5||||
 NWire_Pin|pin@111||-14.5|-13.5||||
 NWire_Pin|pin@112||-14.5|-22||||
@@ -767,10 +765,8 @@ Awire|net@150|||450|nmos-4@8|g|22|-12.5|pin@68||21|-13.5
 Awire|net@160|||900|nmos-4@9|g|22|-20|pin@74||22|-32
 Awire|net@168|||900|pin@68||21|-13.5|pin@78||21|-31
 Awire|net@170|||0|nmos-4@4|g|-8.5|-20|pin@79||-9.5|-20
-Awire|net@171|||0|pmos-4@3|g|-8|11.5|pin@80||-9.5|11.5
 Awire|net@176|||900|nmos-4@3|g|-8.5|-12.5|pin@81||-8.5|-31
 Awire|net@179|||900|nmos-4@2|g|-20|-20|pin@82||-20|-32
-Awire|net@185|||2700|pin@80||-9.5|11.5|pin@85||-9.5|12.5
 Awire|net@195|||0|pmos-4@5|g|7|12|pin@89||5.5|12
 Awire|net@196|||1800|pin@81||-8.5|-31|pin@90||5.5|-31
 Awire|net@197|||1800|pin@90||5.5|-31|pin@78||21|-31
