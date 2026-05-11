@@ -800,6 +800,11 @@ ESum1||D5G2;|FA_L@1|Sum|U
 ESum2||D5G2;|FA_L@2|Sum|U
 ESum3||D5G2;|FA_L@3|Sum|U
 ECout||D5G2;|FA_L@3|cout|U
+AMetal-1|net@vdd_chain||2|S1800|FA_L@0|vdd|FA_L@1|vdd|FA_L@2|vdd|FA_L@3|vdd
+AMetal-1|net@gnd_chain||2|S1800|FA_L@0|gnd|FA_L@1|gnd|FA_L@2|gnd|FA_L@3|gnd
+AMetal-2|net@c0_lay||1|S1800|FA_L@0|cout|FA_L@1|C
+AMetal-2|net@c1_lay||1|S1800|FA_L@1|cout|FA_L@2|C
+AMetal-2|net@c2_lay||1|S1800|FA_L@2|cout|FA_L@3|C
 EVDD|vdd|D5G2;|FA_L@0|vdd|U
 EGND|gnd|D5G2;|FA_L@0|gnd|U
 X
