@@ -11,7 +11,7 @@ Tmocmos|ScaleFORmocmos()D100.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
 
 # Cell FullAddr;1{lay}
 CFullAddr;1{lay}||mocmos|1773257698586|1774467521119||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
-Ngeneric:Facet-Center|art@0||0|0||||AV
+Ngeneric:Facet-Center|art_fa_l@0||0|0||||AV
 NMetal-1-P-Active-Con|contact@0||-28|16.5||1||
 NMetal-1-P-Active-Con|contact@1||-8.5|16.5||1||
 NMetal-1-P-Active-Con|contact@3||12|16.5||1||
@@ -573,10 +573,10 @@ X
 
 # Cell NAND;1{ic}
 CNAND;1{ic}||artwork|1778236800000|1778236800000|E
-Ngeneric:Facet-Center|art@0||0|0||||AV
-NCircle|art@2||7|0.5|6|6|RRR||ART_degrees()F[0.0,3.1415927]
-NThick-Circle|art@3||10.5|0.5|1|1||
-NOpened-Thicker-Polygon|art@5||5.75|0.5|2.5|6|||trace()V[1.25/-3,-1.25/-3,-1.25/3,1.25/3]
+Ngeneric:Facet-Center|art_nand_ic@0||0|0||||AV
+NCircle|art_nand_ic@2||7|0.5|6|6|RRR||ART_degrees()F[0.0,3.1415927]
+NThick-Circle|art_nand_ic@3||10.5|0.5|1|1||
+NOpened-Thicker-Polygon|art_nand_ic@5||5.75|0.5|2.5|6|||trace()V[1.25/-3,-1.25/-3,-1.25/3,1.25/3]
 Nschematic:Bus_Pin|pin@0||2.5|2||||
 Nschematic:Wire_Pin|pin@1||4.5|2||||
 Nschematic:Bus_Pin|pin@2||2.5|-1||||
@@ -594,7 +594,7 @@ X
 # Cell NAND;1{sch}
 CNAND;1{sch}||schematic|1778236800000|1778236800000|
 INAND;1{ic}|NAND@0||11|21.5|||D5G4;
-Ngeneric:Facet-Center|art@0||0|0||||AV
+Ngeneric:Facet-Center|art_nand_sch@0||0|0||||AV
 NOff-Page|conn@0||-24.5|9.5||||
 NOff-Page|conn@1||-24.5|0||||
 NOff-Page|conn@2||4.5|7.5||||
@@ -663,7 +663,7 @@ INAND;1{ic}|NAND@5||100|40|||D5G4;
 INAND;1{ic}|NAND@6||100|20|||D5G4;
 INAND;1{ic}|NAND@7||100|0|||D5G4;
 INAND;1{ic}|NAND@8||125|10|||D5G4;
-Ngeneric:Facet-Center|art@0||0|0||||AV
+Ngeneric:Facet-Center|art_fa_sch@0||0|0||||AV
 NOff-Page|conn@0||-15|35||||
 NOff-Page|conn@1||-15|10||||
 NOff-Page|conn@2||-15|-5||||
@@ -756,6 +756,7 @@ ESum||D5G2;|conn@4|y|U
 
 # Cell 4BitAdder;1{sch}
 C4BitAdder;1{sch}||schematic|1773257698586|1774467521119|
+Ngeneric:Facet-Center|art_4ba_sch@0||0|0||||AV
 IFullAdder;1{sch}|FA_U@0||0|30|||D5G2;
 IFullAdder;1{sch}|FA_U@1||200|30|||D5G2;
 IFullAdder;1{sch}|FA_U@2||400|30|||D5G2;
@@ -780,7 +781,7 @@ ECout||D5G2;|FA_U@3|Cout|U
 
 # Cell 4BitAdder;1{lay}
 C4BitAdder;1{lay}||mocmos|1773257698586|1774467521119|
-Ngeneric:Facet-Center|art@0||0|0||||AV
+Ngeneric:Facet-Center|art_4ba_lay@0||0|0||||AV
 IFullAddr;1{lay}|FA_L@0||0|0|||D5G2;
 IFullAddr;1{lay}|FA_L@1||250|0|||D5G2;
 IFullAddr;1{lay}|FA_L@2||500|0|||D5G2;
