@@ -96,7 +96,7 @@ c1 Sum 0 100f
 c2 Cout 0 100f
 
 *** Transistor models
-.include /home/laptop/Documents/GitHub/VLSI/ElectricVLSI/TransistorSpecs/tsmc018.lib
+.include C:\Users\enslenc1\Documents\GitHub\VLSI\ElectricVLSI\TransistorSpecs\tsmc018.lib
 
 *** Transient analysis (2 full input cycles)
 .tran 0 160n

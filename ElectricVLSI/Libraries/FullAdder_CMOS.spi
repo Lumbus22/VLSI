@@ -70,7 +70,7 @@ vCin Cin 0 PULSE (0 3 0 0.001ns 0.001ns 40ns 80ns)
 c1 Sum 0 100f
 c2 Cout 0 100f
 .tran 0 200n
-.include /home/laptop/Documents/GitHub/VLSI/ElectricVLSI/TransistorSpecs/tsmc018.lib
+.include C:\Users\enslenc1\Documents\GitHub\VLSI\ElectricVLSI\TransistorSpecs\tsmc018.lib
 .meas TRAN Sumtfall1 FIND time WHEN v(Sum) = 2.7 cross = 2
 .meas TRAN Sumtfall2 FIND time WHEN v(Sum) = 0.3 cross = 2
 .meas TRAN Sumtrise1 FIND time WHEN v(Sum) = 0.3 cross = 1
