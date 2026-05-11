@@ -813,4 +813,160 @@ Currently highlighted:
     com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@80']
     com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@261']
     com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@62']
-    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysil
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@181']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@336']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@81']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@486']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@487']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@78']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@67']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@63']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@335']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@207']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@474']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@142']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@395']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@484']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@509']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@127']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@136']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@138']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@128']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@278']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@300']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@301']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@302']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@102']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@230']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@291']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-2['net@510']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@340']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@488']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@197']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@490']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@139']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@485']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@124']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@334']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@470']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@471']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@115']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': P-Active['net@116']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@303']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@305']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@420']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@218']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@418']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@430']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@304']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@472']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@133']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@129']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': N-Active['net@130']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@292']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@222']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@152']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@293']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Polysilicon-1['net@137']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@338']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@475']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@476']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@259']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@288']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@339']
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@491']
+--------------- 88 --------------
+  Mon May 11 12:32:36 EDT 2026
+ProcessKeyBinding 400 when=1778517156141 modifiers=80 code=0 char=3 false false
+--------------- 89 --------------
+  Mon May 11 12:32:36 EDT 2026
+ProcessKeyBinding 402 when=1778517156341 modifiers=0 code=11 char=ffff false false
+--------------- 90 --------------
+  Mon May 11 12:32:40 EDT 2026
+ProcessKeyBinding 401 when=1778517160535 modifiers=80 code=11 char=ffff false false
+--------------- 91 --------------
+  Mon May 11 12:32:41 EDT 2026
+ProcessKeyBinding 402 when=1778517161109 modifiers=0 code=11 char=ffff false false
+--------------- 92 --------------
+  Mon May 11 12:32:41 EDT 2026
+ProcessKeyBinding 401 when=1778517161702 modifiers=80 code=11 char=ffff false false
+--------------- 93 --------------
+  Mon May 11 12:32:41 EDT 2026
+Menu Activated: Edit | Selection | Select All
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell '4BitAdder:FullAddr{lay}': Metal-1['net@213']
+--------------- 94 --------------
+  Mon May 11 12:32:41 EDT 2026
+ProcessKeyBinding 400 when=1778517161860 modifiers=80 code=0 char=1 false false
+--------------- 95 --------------
+  Mon May 11 12:32:42 EDT 2026
+ProcessKeyBinding 402 when=1778517162014 modifiers=0 code=11 char=ffff false false
+--------------- 96 --------------
+  Mon May 11 12:32:43 EDT 2026
+ProcessKeyBinding 401 when=1778517163365 modifiers=80 code=11 char=ffff false false
+--------------- 97 --------------
+  Mon May 11 12:32:44 EDT 2026
+ProcessKeyBinding 402 when=1778517164847 modifiers=0 code=11 char=ffff false false
+--------------- 98 --------------
+  Mon May 11 12:32:47 EDT 2026
+ProcessKeyBinding 401 when=1778517167061 modifiers=80 code=11 char=ffff false false
+--------------- 99 --------------
+  Mon May 11 12:32:47 EDT 2026
+ProcessKeyBinding 402 when=1778517167620 modifiers=0 code=11 char=ffff false false
+--------------- 100 --------------
+  Mon May 11 12:32:49 EDT 2026
+ProcessKeyBinding 401 when=1778517169441 modifiers=80 code=11 char=ffff false false
+--------------- 101 --------------
+  Mon May 11 12:33:02 EDT 2026
+ProcessKeyBinding 402 when=1778517182377 modifiers=0 code=11 char=ffff false false
+--------------- 102 --------------
+  Mon May 11 12:33:03 EDT 2026
+ProcessKeyBinding 401 when=1778517183437 modifiers=80 code=11 char=ffff false false
+--------------- 103 --------------
+  Mon May 11 12:33:03 EDT 2026
+Menu Activated: Edit | Paste
+--------------- 104 --------------
+  Mon May 11 12:33:03 EDT 2026
+ProcessKeyBinding 400 when=1778517183692 modifiers=80 code=0 char=16 false false
+--------------- 105 --------------
+  Mon May 11 12:33:03 EDT 2026
+ProcessKeyBinding 402 when=1778517183931 modifiers=0 code=11 char=ffff false false
+--------------- 106 --------------
+  Mon May 11 12:34:13 EDT 2026
+Menu Activated: File | Open Library...
+--------------- 107 --------------
+  Mon May 11 12:34:23 EDT 2026
+ProcessKeyBinding 401 when=1778517263658 modifiers=80 code=11 char=ffff false false
+--------------- 108 --------------
+  Mon May 11 12:34:24 EDT 2026
+ProcessKeyBinding 402 when=1778517264340 modifiers=0 code=11 char=ffff false false
+--------------- 109 --------------
+  Mon May 11 12:34:25 EDT 2026
+ProcessKeyBinding 401 when=1778517265010 modifiers=80 code=11 char=ffff false false
+--------------- 110 --------------
+  Mon May 11 12:34:25 EDT 2026
+ProcessKeyBinding 402 when=1778517265912 modifiers=0 code=11 char=ffff false false
+--------------- 111 --------------
+  Mon May 11 12:34:35 EDT 2026
+ProcessKeyBinding 401 when=1778517275790 modifiers=80 code=11 char=ffff false false
+--------------- 112 --------------
+  Mon May 11 12:34:38 EDT 2026
+ProcessKeyBinding 402 when=1778517278614 modifiers=0 code=11 char=ffff false false
+--------------- 113 --------------
+  Mon May 11 12:35:06 EDT 2026
+ProcessKeyBinding 401 when=1778517306450 modifiers=40 code=10 char=ffff false false
+--------------- 114 --------------
+  Mon May 11 12:35:07 EDT 2026
+ProcessKeyBinding 402 when=1778517307449 modifiers=0 code=10 char=ffff false false
+--------------- 115 --------------
+  Mon May 11 12:35:22 EDT 2026
+ProcessKeyBinding 401 when=1778517322382 modifiers=40 code=10 char=ffff false false
+--------------- 116 --------------
+  Mon May 11 12:35:23 EDT 2026
+ProcessKeyBinding 402 when=1778517323079 modifiers=0 code=10 char=ffff false false
+--------------- 117 --------------
+  Mon May 11 12:35:23 EDT 2026
+ProcessKeyBinding 401 when=1778517323268 modifiers=80 code=11 char=ffff false false
+--------------- 118 --------------
+  Mon May 11 12:35:23 EDT 2026
+ProcessKeyBinding 402 when=1778517323843 modifiers=0 code=11 char=ffff false false
