@@ -35,7 +35,7 @@ AMetal-1|vdd|D5G3;|1|S2700|FullAddr@1|vcc|66.5|133|pin@8||66.5|141
 X
 
 # Cell FullAddr;1{lay}
-CFullAddr;1{lay}||mocmos|1773257698586|1774467521119||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
+CFullAddr;1{lay}||mocmos|1773257698586|1778538619353||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-P-Active-Con|contact@0||-28|16.5||1||
 NMetal-1-P-Active-Con|contact@1||-8.5|16.5||1||
@@ -240,6 +240,7 @@ NMetal-1-Pin|pin@170||-72|58.5||||
 NMetal-1-Pin|pin@172||-72.5|68.5||||
 NMetal-1-Pin|pin@173||90|31.5||||
 NMetal-1-Pin|pin@174||-2|-210.5||||
+Ngeneric:Invisible-Pin|pin@175||-40.5|-240.5|||||SIM_spice_card(D5G1;)S[* ============================================================,* Full Adder Layout Simulation — Convergence Fixed,* EGC446-01 VLSI Design Lab,* ============================================================,* ── CHECK YOUR LAYOUT NETLIST FOR EXACT NODE NAMES ──────────,* Open your .spi file and confirm the names for:,"*   carry-in  → replace \"c\"   below if different","*   input A   → replace \"a\"   below if different","*   input B   → replace \"b\"   below if different","*   sum out   → replace \"sum\" in .meas if different","*   carry out → replace \"cout\" in .meas if different",* ─────────────────────────────────────────────────────────────,vdd vdd 0 DC 3,vA   a   0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB   b   0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),vCin c   0 PULSE (0 3 0 0.001ns 0.001ns 40ns 80ns),"* Initial conditions — all outputs start HIGH (A=B=Cin=1 → Sum=1, Cout=1)",.ic V(sum)=3 V(cout)=3,* Solver options — fix Pd/Ps convergence warnings,.options reltol=0.005,.options abstol=1e-9,.options cshunt=1e-15,.options method=gear,.tran 0 160n,".include C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib",* ─────────────────────────────────────────────────────────────,* FO4 LOAD — 4 minimum-sized inverters on each output,* ─────────────────────────────────────────────────────────────,.subckt fo4_inv in out vdd_p gnd_p,Mn out in gnd_p gnd_p CMOSN W=3 L=2,Mp out in vdd_p vdd_p CMOSP W=6 L=2,.ends fo4_inv,X_s1 sum s1_out vdd 0 fo4_inv,X_s2 sum s2_out vdd 0 fo4_inv,X_s3 sum s3_out vdd 0 fo4_inv,X_s4 sum s4_out vdd 0 fo4_inv,X_c1 cout c1_out vdd 0 fo4_inv,X_c2 cout c2_out vdd 0 fo4_inv,X_c3 cout c3_out vdd 0 fo4_inv,X_c4 cout c4_out vdd 0 fo4_inv,* ─────────────────────────────────────────────────────────────,* SUM MEASUREMENTS,* ─────────────────────────────────────────────────────────────,.meas TRAN Sum_FallTime  TRIG v(sum) VAL=2.7 FALL=1 TARG v(sum) VAL=0.3 FALL=1,.meas TRAN Sum_RiseTime  TRIG v(sum) VAL=0.3 RISE=1 TARG v(sum) VAL=2.7 RISE=1,.meas TRAN Sum_tPHL      TRIG v(a)   VAL=1.5 FALL=1 TARG v(sum) VAL=1.5 FALL=1,.meas TRAN Sum_tPLH      TRIG v(a)   VAL=1.5 FALL=2 TARG v(sum) VAL=1.5 RISE=1,* ─────────────────────────────────────────────────────────────,* COUT MEASUREMENTS,* ─────────────────────────────────────────────────────────────,.meas TRAN Cout_FallTime TRIG v(cout) VAL=2.7 FALL=1 TARG v(cout) VAL=0.3 FALL=1,.meas TRAN Cout_RiseTime TRIG v(cout) VAL=0.3 RISE=1 TARG v(cout) VAL=2.7 RISE=1,.meas TRAN Cout_tPHL     TRIG v(a)    VAL=1.5 FALL=2 TARG v(cout) VAL=1.5 FALL=1,.meas TRAN Cout_tPLH     TRIG v(a)    VAL=1.5 RISE=3 TARG v(cout) VAL=1.5 RISE=1]
 NP-Transistor|pmos@0||-22.5|16.5|3||RRR||SIM_spice_model(D5G1;)SCMOSP
 NP-Transistor|pmos@1||-14.5|16.5|3||R||SIM_spice_model(D5G1;)SCMOSP
 NP-Transistor|pmos@2||-2.5|16.5|3||R||SIM_spice_model(D5G1;)SCMOSP
@@ -583,13 +584,13 @@ AMetal-1|net@534||1|S900|pin@132||-2|-206.5|pin@174||-2|-210.5
 EA||D5G2;|pin@172||U
 EB||D5G2;|pin@170||U
 EC||D5G2;|contact@93||U
-ESum||D5G2;|contact@95||U
 Ecout||D5G2;|pin@146||U
 EGND|gnd|D5G2;|substr@0||U
 Egnd_1||D5G2;|pin@174||U
 Enota||D5G2;|pin@150||U
 Enotb||D5G2;|pin@151||U
 Enotc||D5G2;|pin@149||U
+ESum|sum|D5G2;|contact@95||U
 Evcc||D5G2;|contact@98||U
 EVDD|vdd|D5G2;|well@2||U
 Evdd_1||D5G2;|well@4||U
