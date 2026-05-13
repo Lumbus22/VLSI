@@ -30,7 +30,7 @@ Ef||D5G2;|pin@4||U
 X
 
 # Cell NAND;1{lay}
-CNAND;1{lay}||mocmos|1772658667125|1772658994463||DRC_last_good_drc_area_date()G1772658915028|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1772658915028
+CNAND;1{lay}||mocmos|1772658667125|1778636755397||DRC_last_good_drc_area_date()G1772658915028|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1772658915028
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-N-Active-Con|contact@1||14.5|-15.5||||
 NMetal-1-N-Active-Con|contact@2||40|-15.5||||
@@ -49,7 +49,7 @@ NPolysilicon-1-Pin|pin@4||38|-4||||
 NPolysilicon-1-Pin|pin@6||29|8||||
 NPolysilicon-1-Pin|pin@7||11|12.5||||
 NPolysilicon-1-Pin|pin@9||23.5|-4.5||||
-Ngeneric:Invisible-Pin|pin@12||-36|-13|||||SIM_spice_card(D5G2;)S[vdd vdd 0 DC 3,vA A 0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB B 0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),cf f 0 200fF,.tran 0 100n,".include \"C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib\""]
+Ngeneric:Invisible-Pin|pin@12||-55|-14|||||SIM_spice_card(D5G2;)S[vdd vdd 0 DC 3,vA A 0 PULSE (0 3 0 0.001ns 0.001ns 10ns 20ns),vB B 0 PULSE (0 3 0 0.001ns 0.001ns 20ns 40ns),cf f 0 200fF,.tran 0 100n,".include \"C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib\""]
 NMetal-1-Pin|pin@14||29|0.5||||
 NMetal-1-Pin|pin@16||53|0.5||||
 NMetal-1-Pin|pin@18||53|-15.5||||
