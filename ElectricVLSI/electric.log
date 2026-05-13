@@ -1,6 +1,7 @@
 Electric Version 9.08
 --------------- 0 --------------
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Tue May 12 21:18:08 EDT 2026
 Menu Activated: File | New Library...
 --------------- 1 --------------
@@ -11057,6 +11058,8 @@ ProcessKeyBinding 401 when=1778639300310 modifiers=80 code=11 char=ffff false fa
   Tue May 12 22:28:20 EDT 2026
 ProcessKeyBi
 =======
+=======
+>>>>>>> Stashed changes
   Mon May 11 17:22:19 EDT 2026
 Menu Activated: File | Open Library...
 --------------- 1 --------------
@@ -14210,4 +14213,7 @@ ProcessKeyBinding 402 when=1778536227245 modifiers=0 code=11 char=ffff false fal
 --------------- 32 --------------
   Mon May 11 18:08:32 EDT 2026
 Menu Activated: File | Open Library...
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
