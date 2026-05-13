@@ -9,6 +9,11 @@ Vschematic|sch
 # Technologies:
 Tmocmos|ScaleFORmocmos()D100.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
 
+# Cell FullAdderNet;1{lay}
+CFullAdderNet;1{lay}||mocmos|1778683157967|1778683157967|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+X
+
 # Cell INVERTER;1{ic}
 CINVERTER;1{ic}||artwork|1771455298457|1774471701385|E
 Ngeneric:Facet-Center|art@0||0|0||||AV
