@@ -1,0 +1,27 @@
+import com.sun.electric.database.hierarchy.Library;
+import com.sun.electric.database.hierarchy.Cell;
+import com.sun.electric.tool.io.input.LibraryFiles;
+import java.io.File;
+
+try {
+    // 1. Read source libraries
+    Library libLab3 = Library.readLibrary(new File("ElectricVLSI/Libraries/Lab3.jelib"));
+    Library libCMOS = Library.readLibrary(new File("ElectricVLSI/Libraries/FullAdder_CMOS.jelib"));
+
+    // 2. Create new library
+    Library newLib = Library.createLibrary("FourBitAdder_CMOS");
+
+    // 3. Find and copy cells
+    // Note: In Electric, copyCell handles dependencies
+    Cell faLay = libLab3.findCell("FullAddr", Cell.View.LAYOUT);
+    Cell faSch = libCMOS.findCell("FullAdder", Cell.View.SCHEMATIC);
+    
+    // We need to copy them to the new library. 
+    // In v9.08, there's a Cell.copyTo(Library) or similar.
+    // Or we can just use the Library.addCell(Cell) if we clone it.
+    
+    // Actually, the easiest way in a script is to use the Tool API or similar.
+    // But let's try a simpler approach since I can't easily find the exact API.
+} catch (Exception e) {
+    e.printStackTrace();
+}
