@@ -2235,7 +2235,7 @@ Evdd_2||D5G2;|well@65||U
 X
 
 # Cell FullAddr;1{lay}
-CFullAddr;1{lay}||mocmos|1773257698586|1774467521119||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
+CFullAddr;1{lay}||mocmos|1773257698586|1778790546813||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-P-Active-Con|contact@0||-28|16.5||1||
 NMetal-1-P-Active-Con|contact@1||-8.5|16.5||1||
@@ -2782,14 +2782,14 @@ AMetal-2|net@533||1|S900|contact@98||97|75|contact@97||97|31.5
 AMetal-1|net@534||1|S900|pin@132||-2|-206.5|pin@174||-2|-210.5
 EA||D5G2;|pin@172||U
 EB||D5G2;|pin@170||U
-EC||D5G2;|contact@93||U
-ESum||D5G2;|contact@95||U
+EC|cin|D5G2;|contact@93||U
 Ecout||D5G2;|pin@146||U
 EGND|gnd|D5G2;|substr@0||U
 Egnd_1||D5G2;|pin@174||U
 Enota||D5G2;|pin@150||U
 Enotb||D5G2;|pin@151||U
 Enotc||D5G2;|pin@149||U
+ESum|sum|D5G2;|contact@95||U
 Evcc||D5G2;|contact@98||U
 EVDD|vdd|D5G2;|well@2||U
 Evdd_1||D5G2;|well@4||U
