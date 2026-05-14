@@ -2235,7 +2235,7 @@ Evdd_2||D5G2;|well@65||U
 X
 
 # Cell FullAddr;1{lay}
-CFullAddr;1{lay}||mocmos|1773257698586|1778790546813||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
+CFullAddr;1{lay}||mocmos|1773257698586|1778790592050||DRC_last_good_drc_area_date()G1774466518709|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1774466518709
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-P-Active-Con|contact@0||-28|16.5||1||
 NMetal-1-P-Active-Con|contact@1||-8.5|16.5||1||
@@ -2440,6 +2440,7 @@ NMetal-1-Pin|pin@170||-72|58.5||||
 NMetal-1-Pin|pin@172||-72.5|68.5||||
 NMetal-1-Pin|pin@173||90|31.5||||
 NMetal-1-Pin|pin@174||-2|-210.5||||
+Ngeneric:Invisible-Pin|pin@175||-49|-228.5|||||SIM_spice_card(D5G1;)S[* --- Neuromorphic Full Adder Testbench (Final) ---,* 1. Supply Voltage,vdd vdd 0 DC 1.8,* 2. Analog Bias Reference Voltages,.param V_COUT_BIAS = 1.4,.param V_SUM_BIAS = 0.8,vCoutBias coutbias 0 DC {V_COUT_BIAS},vSumBias sumbias 0 DC {V_SUM_BIAS},* 3. Input Stimulus (Testing all 8 states: 111 down to 000),vCin cin 0 PULSE (0 1.8 0 0.1n 0.1n 10n 20n),vB B 0 PULSE (0 1.8 0 0.1n 0.1n 20n 40n),vA A 0 PULSE (0 1.8 0 0.1n 0.1n 40n 80n),* 4. Output Load Capacitance,cf_cout Cout 0 200fF,cf_sum Sum 0 200fF,* 5. Analysis,.tran 0.1n 90n,* 6. Library Include,".include \"C:\\Users\\enslenc1\\Documents\\GitHub\\VLSI\\ElectricVLSI\\TransistorSpecs\\tsmc018.lib\"",* --- Propagation Delay Measurements ---,* 1. Sum Output Delays,"* Wait until 29ns (TD=29n), then look for the FIRST falling edge of Cin to trigger.",.measure tran tplh_sum TRIG V(cin) VAL=0.9 FALL=1 TD=29n TARG V(sum) VAL=0.9 RISE=1 TD=29n,"* Wait until 9ns (TD=9n), then look for the FIRST falling edge of Cin to trigger.",.measure tran tphl_sum TRIG V(cin) VAL=0.9 FALL=1 TD=9n TARG V(sum) VAL=0.9 FALL=1 TD=9n,* Calculate the Average Propagation Delay for Sum,.measure tran tpd_sum param='(tplh_sum + tphl_sum)/2',* 2. Cout Output Delays,"* Wait until 39ns (TD=39n), then look for the FIRST rising edge of B.",.measure tran tplh_cout TRIG V(B) VAL=0.9 RISE=1 TD=39n TARG V(cout) VAL=0.9 RISE=1 TD=39n,"* Wait until 29ns (TD=29n), then look for the FIRST falling edge of Cin.",.measure tran tphl_cout TRIG V(cin) VAL=0.9 FALL=1 TD=29n TARG V(cout) VAL=0.9 FALL=1 TD=29n,* Calculate the Average Propagation Delay for Cout,.measure tran tpd_cout param='(tplh_cout + tphl_cout)/2',* --- Power Consumption Measurements ---,* 1. Total Average Power,* Integrates total power drawn over the entire 90ns cycle,.measure tran avg_power_total AVG '-1 * V(vdd) * I(vdd)' FROM=0 TO=90n,* 2. True Static Power (Idle State),* Measures power drawn during the 000 state (Inputs at Ground) to establish baseline idle draw.,.measure tran static_power_idle AVG '-1 * V(vdd) * I(vdd)' FROM=72n TO=78n]
 NP-Transistor|pmos@0||-22.5|16.5|3||RRR||SIM_spice_model(D5G1;)SCMOSP
 NP-Transistor|pmos@1||-14.5|16.5|3||R||SIM_spice_model(D5G1;)SCMOSP
 NP-Transistor|pmos@2||-2.5|16.5|3||R||SIM_spice_model(D5G1;)SCMOSP
